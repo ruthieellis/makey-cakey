@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Spooky Snacks
 tags:
 - dairy free
