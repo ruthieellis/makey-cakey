@@ -1,5 +1,13 @@
 ---
-layout: post
+title:  "Welcome to Jekyll!"
+<!-- header:
+  teaser: "https://farm5.staticflickr.com/4076/4940499208_b79b77fb0a_z.jpg"
+categories:
+  - Jekyll
+tags:
+  - update -->
+<!--  -->
+<!-- layout: post
 title: Spooky Snacks
 date: '2016-10-26T22:52:00.002+01:00'
 author: Ruth Ellis
@@ -11,7 +19,7 @@ tags:
 modified_time: '2016-10-26T22:52:55.456+01:00'
 thumbnail: https://2.bp.blogspot.com/-mU3ReH58yx8/WBEi_v-OIdI/AAAAAAAAIzA/HsMcqOxpqDM28NHh5UmfLbRFQIu6A1b1gCLcB/s72-c/Halloween1.jpg
 blogger_id: tag:blogger.com,1999:blog-1766292537874588855.post-6465930329194135607
-blogger_orig_url: https://makey-cakey.blogspot.com/2016/10/spooky-snacks.html
+blogger_orig_url: https://makey-cakey.blogspot.com/2016/10/spooky-snacks.html -->
 ---
 
 It's Halloween (almost).<br />And I've remembered in time (just) that I made lots of Halloween themed food last year, which I never shared.<br />We had a whole day where all of the meals and snacks were spooky (apart from breakfast &nbsp;- so 66% meals... whatever!)<br /><br />I made them to offset the Halloween sadness over being given treats and snacks at several Halloween functions that weren't dairy free. Understandable both from a logistical perspective, and from a small-child upset point of view.<br /><br />Not quite decided yet what I'm making this year...<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-mU3ReH58yx8/WBEi_v-OIdI/AAAAAAAAIzA/HsMcqOxpqDM28NHh5UmfLbRFQIu6A1b1gCLcB/s1600/Halloween1.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://2.bp.blogspot.com/-mU3ReH58yx8/WBEi_v-OIdI/AAAAAAAAIzA/HsMcqOxpqDM28NHh5UmfLbRFQIu6A1b1gCLcB/s400/Halloween1.jpg" width="400" /></a></div><br /><u>Morning snack</u><br /><b>Monster mouths:</b> Apple slices filled with peanut butter, apricot tongue/raisin and peanut teeth, and icing eyes.<br /><b>Ghosts:</b> Bananas, raisins and dairy free chocolate chips<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://2.bp.blogspot.com/-K6BIH4Vp8Ms/WBEi_kOOo2I/AAAAAAAAIy8/HCdcPNWQohkYOOTDtH6bmlc2Qvz0OfqcACLcB/s1600/Halloween3.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img border="0" height="223" src="https://2.bp.blogspot.com/-K6BIH4Vp8Ms/WBEi_kOOo2I/AAAAAAAAIy8/HCdcPNWQohkYOOTDtH6bmlc2Qvz0OfqcACLcB/s400/Halloween3.jpg" width="400" /></a></div><br /><br /><u>Lunch</u><br /><b>Scary Snot Face:</b> Hard boiled egg, raisin/sultana eyes. Ketchup blood vessels. Carrot nose, dairy free pesto snot, cracker and ketchup mouth.<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-S-1Xue09x1s/WBEi_sxwzTI/AAAAAAAAIy4/-qioszCLGNQzfDiVzBvCysBHOjeW35C7gCLcB/s1600/Halloween2.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://1.bp.blogspot.com/-S-1Xue09x1s/WBEi_sxwzTI/AAAAAAAAIy4/-qioszCLGNQzfDiVzBvCysBHOjeW35C7gCLcB/s400/Halloween2.jpg" width="400" /></a></div><br /><u>Afternoon snack</u><br /><b>"Spider"</b> (it's missing a few legs, the plum wasn't very big!): Plum, blueberries on cocktail sticks, marshmallows on halved cocktail sticks with black icing eyes.<br /><div class="separator" style="clear: both; text-align: center;"><br /></div><div class="separator" style="clear: both; text-align: center;"><a href="https://1.bp.blogspot.com/-t1Nf3Rz9rlo/WBEjALtdUjI/AAAAAAAAIzE/P9mgGxpiCN0BTKsYb09wpDKPRUDesvEkgCLcB/s1600/Halloween4.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://1.bp.blogspot.com/-t1Nf3Rz9rlo/WBEjALtdUjI/AAAAAAAAIzE/P9mgGxpiCN0BTKsYb09wpDKPRUDesvEkgCLcB/s400/Halloween4.jpg" width="400" /></a></div><u><br /></u><u>Dinner</u><br /><b>Spider-web pizza</b>: Tortilla wrap, tomato sauce, dairy free cheese, black olives<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://3.bp.blogspot.com/-446GQZuQyus/WBEjAcFIT_I/AAAAAAAAIzI/dHy7lvSGN5IEOC-UstyxmHi4iK1niXUOgCLcB/s1600/Halloween5.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="223" src="https://3.bp.blogspot.com/-446GQZuQyus/WBEjAcFIT_I/AAAAAAAAIzI/dHy7lvSGN5IEOC-UstyxmHi4iK1niXUOgCLcB/s400/Halloween5.jpg" width="400" /></a></div><br /><b>Spooky Sharing Platter:</b><br />Hot-dog directed worms (with ketchup and some little bits of olive)<br />Crunchy bones and blood (crispy chilli beef and sweet and sour sauce)<br />Pumpkin patch - carrot slices in puree'd pea dip<br />Mini-crispbread toast gravestones<br /><br />Proof that not all Halloween food fun is chocolatey (or even sweet!)
