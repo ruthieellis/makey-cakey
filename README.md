@@ -18,3 +18,6 @@ Start your blog post here
 
 ```
 * Posts are written in Markdown - [read more here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
+
+# Edit an old posts
+Old posts are HTML format and may have broken links or missing external images. To edit, edit the file from the [posts](https://github.com/ruthieellis/ruthieellis.github.io/tree/master/_posts) folder.
