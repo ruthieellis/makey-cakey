@@ -17,4 +17,4 @@ tags:
 Start your blog post here
 
 ```
-* Posts are written in Markdown - [https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/](read more here)
+* Posts are written in Markdown - [read more here](https://mmistakes.github.io/minimal-mistakes/markup/markup-html-tags-and-formatting/)
