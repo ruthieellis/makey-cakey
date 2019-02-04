@@ -34,7 +34,7 @@
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% if post.excerpt %}
-    <h3>{{ post.date | date: "%B %d, %Y" }}</h3>
-    <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
+    
+    <p class="archive__item-excerpt" itemprop="description">{{ post.date | date: "%d %B %Y" }} &emdash; {{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
