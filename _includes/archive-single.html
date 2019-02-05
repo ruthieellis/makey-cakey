@@ -30,6 +30,9 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    {% if post.date %}
+    <i class="jono-calendar" aria-hidden="true"></i> <time datetime="{{ post.date | date_to_long_string: "ordinal"}}">{{ post.date | date: "%A" }}</time>&emsp;
+    {% endif %}
     {% if post.read_time %}
       <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
