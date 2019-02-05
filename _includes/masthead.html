@@ -11,9 +11,7 @@
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt=""></a>
         {% endunless %}
-        <a class="site-title" href="{{ '/' | relative_url }}">
-          <img src="http://1.bp.blogspot.com/_feqj-aLoDF0/SuSKOI5OOjI/AAAAAAAAAM8/zauq4A_3QFY/S730/sc000622da.jpg">
-          {{ site.masthead_title | default: site.title }}</a>
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.masthead_title | default: site.title }}</a>
         <ul class="visible-links">
           {%- for link in site.data.navigation.main -%}
             {%- if link.url contains '://' -%}
