@@ -13,6 +13,8 @@ tags:
 - dairy free
 - picnic
 - dried fruit
+header:
+  teaser: "/assets/yyyy-mm-dd-image-0000.jpg"
 ---
 Start your blog post here
 
@@ -21,3 +23,10 @@ Start your blog post here
 
 # Edit an old posts
 Old posts are HTML format and may have broken links or missing external images. To edit, edit the file from the [posts](https://github.com/ruthieellis/ruthieellis.github.io/tree/master/_posts) folder.
+
+# Upload an image
+* Go to [https://github.com/ruthieellis/ruthieellis.github.io/tree/master/assets](https://github.com/ruthieellis/ruthieellis.github.io/tree/master/assets)
+* Upload files, ideally in this format (but it's not essential) or you can add to a folder by year or year and month: 
+```
+/assets/yyyy-mm-dd-image-0000.jpg
+```
