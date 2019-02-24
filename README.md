@@ -47,5 +47,14 @@ For Google Drive:
 {% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
 ```
 
+# Add an emoji
+* The blog uses [https://github.com/jekyll/jemoji](https://github.com/jekyll/jemoji)
+* Search for an emoji on [https://emojipedia.org/](https://emojipedia.org/)
+* Copy the shortcode
+* Add ```:+1:``` to your post to add a +1 emoji
+
+
+
+
 # Future changes
 * Set up a [Forestry CMS](https://forestry.io/)
