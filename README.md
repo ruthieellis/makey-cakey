@@ -1,5 +1,5 @@
 # ruthieellis.github.io
-This is the GitHub repoistory for the Makey Cakey blog. The blog was imoported from [http://makey-cakey.blogspot.com/](http://makey-cakey.blogspot.com/). 
+This is the GitHub repoistory for the [Makey Cakey blog](https://ruth.ellis.scot/). The site is hosted on [GitHub Pages](https://pages.github.com/) using the [Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/). The blog was imoported from [http://makey-cakey.blogspot.com/](http://makey-cakey.blogspot.com/). 
 
 # Create a new post
 * Go to [https://github.com/ruthieellis/ruthieellis.github.io/tree/master/_posts](https://github.com/ruthieellis/ruthieellis.github.io/tree/master/_posts) 
@@ -30,3 +30,22 @@ Old posts are HTML format and may have broken links or missing external images. 
 ```
 /assets/yyyy-mm-dd-image-0000.jpg
 ```
+
+# Add video
+For YouTube:
+```
+{% include video id="XsxDH4HcOWA" provider="youtube" %}
+```
+
+For Vimeo:
+```
+{% include video id="212731897" provider="vimeo" %}
+```
+
+For Google Drive:
+```
+{% include video id="1u41lIbMLbV53PvMbyYc9HzvBug5lNWaO" provider="google-drive" %}
+```
+
+# Future changes
+* Set up a [Forestry CMS](https://forestry.io/)
