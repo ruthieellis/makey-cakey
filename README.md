@@ -31,7 +31,30 @@ Old posts are HTML format and may have broken links or missing external images. 
 /assets/yyyy-mm-dd-image-0000.jpg
 ```
 
-You can also add an [image gallery](https://mmistakes.github.io/minimal-mistakes/docs/helpers/) - add the image links to the header and then embed the gallery in the post. 
+You can also add an [image gallery](https://mmistakes.github.io/minimal-mistakes/docs/helpers/) - add the image links to the header and then embed the gallery in the post:
+
+Header:
+```
+gallery:
+  - url: /assets/2009-01-12-image-0002.JPG
+    image_path: /assets/2009-01-12-image-0002.JPG
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/2009-01-12-image-0001.jpg
+    image_path: /assets/2009-01-12-image-0001.jpg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/2009-01-12-image-0000.jpg
+    image_path: /assets/2009-01-12-image-0000.jpg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
+```
+
+
+Body:
+```
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
+```
 
 # Add video
 For YouTube:
