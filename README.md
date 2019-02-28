@@ -31,6 +31,8 @@ Old posts are HTML format and may have broken links or missing external images. 
 /assets/yyyy-mm-dd-image-0000.jpg
 ```
 
+You can also add an [image gallery](https://mmistakes.github.io/minimal-mistakes/docs/helpers/) - add the image links to the header and then embed the gallery in the post. 
+
 # Add video
 For YouTube:
 ```
