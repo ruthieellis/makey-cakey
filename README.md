@@ -84,8 +84,7 @@ Notes:
 * The original script (saved as scripts/script.rb) was from: [https://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/](https://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/)
 * This script is saved as scripts/out-working.xml (and the original is scripts/out-original-incorrect.xml)
 * To upload the redirects, go to Blogger and edit theme > Html here: [https://www.blogger.com/blogger.g?blogID=1766292537874588855#template](https://www.blogger.com/blogger.g?blogID=1766292537874588855#template)
-* The regex used to replace URLs was ```ruth.ellis.scot(\/)(\/)\d{4}(\/)(((0)[0-9])|((1)[0-2]))(\/)([0-2][0-9]|(3)[0-1])(\/)
-```
+* The regex used to replace URLs was ```ruth.ellis.scot(\/)(\/)\d{4}(\/)(((0)[0-9])|((1)[0-2]))(\/)([0-2][0-9]|(3)[0-1])(\/)```
 * A backup of the original theme is saved as scripts/theme-backup.html
 * The photo-a-day blog was imported from scripts/jekyll-photo-a-day.rb and scripts/blog-03-20-2019.xml
 * The makey-cakey blog was imported from scripts/jekyll-makey-cakey.rb and scripts/blog-01-27-2019.xml
