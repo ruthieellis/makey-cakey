@@ -78,7 +78,18 @@ For Google Drive:
 * Copy the shortcode
 * Add ```:+1:``` to your post to add a +1 emoji
 
-
+# Redirects setup
+The site has redirects from the old Blogger site to GitHub Pages. 
+Notes:
+* The original script (saved as scripts/script.rb) was from: [https://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/](https://www.ybrikman.com/writing/2015/04/20/migrating-from-blogger-to-github-pages/)
+* This script is saved as scripts/out-working.xml (and the original is scripts/out-original-incorrect.xml)
+* To upload the redirects, go to Blogger and edit theme > Html here: [https://www.blogger.com/blogger.g?blogID=1766292537874588855#template](https://www.blogger.com/blogger.g?blogID=1766292537874588855#template)
+* The regex used to replace URLs was ```ruth.ellis.scot(\/)(\/)\d{4}(\/)(((0)[0-9])|((1)[0-2]))(\/)([0-2][0-9]|(3)[0-1])(\/)
+```
+* A backup of the original theme is saved as scripts/theme-backup.html
+* The photo-a-day blog was imported from scripts/jekyll-photo-a-day.rb and scripts/blog-03-20-2019.xml
+* The makey-cakey blog was imported from scripts/jekyll-makey-cakey.rb and scripts/blog-01-27-2019.xml
+* The scripts used to import images are stored as scripts/import_blogger_images* - version href3 was used to create a branch of the site which has the largest size of each Blogger image saved (see next point)
 
 # Old Blogger images
 * The blog has all of the images imported but some images need to be clicked in order to get to the larger version of the image. These larger versions are still on Blogger. There is a branch in GitHub which has imported these images. The images are stored here: ```https://github.com/ruthieellis/ruthieellis.github.io/tree/large-blogger-images/assets/large``` and the edited posts are stored here: ```https://github.com/ruthieellis/ruthieellis.github.io/tree/large-blogger-images/_posts```. These were not overwritten as it also affected non-Blogger images but the images are here should they be needed. 
