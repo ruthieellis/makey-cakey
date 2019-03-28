@@ -80,6 +80,9 @@ For Google Drive:
 
 
 
+# Old Blogger images
+* The blog has all of the images imported but some images need to be clicked in order to get to the larger version of the image. These larger versions are still on Blogger. There is a branch in GitHub which has imported these images. The images are stored here: ```https://github.com/ruthieellis/ruthieellis.github.io/tree/large-blogger-images/assets/large``` and the edited posts are stored here: ```https://github.com/ruthieellis/ruthieellis.github.io/tree/large-blogger-images/_posts```. These were not overwritten as it also affected non-Blogger images but the images are here should they be needed. 
+
 
 # Future changes
 * Set up a [Forestry CMS](https://forestry.io/)
