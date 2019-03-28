@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE HTML>
+<html b:render='false' b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<b:include data='blog' name='all-head-content'></b:include>
+<title><data:blog.pageTitle/></title>
+<b:if cond='data:blog.pageType == "item"'>
+<link expr:href='"https://www.belleaukitchen.com?b2w="+data:blog.url' rel='canonical'/>
+<meta expr:content='"0;url=https://www.belleaukitchen.com?b2w="+data:blog.url' http-equiv='refresh'/>
+<b:else></b:else>
+<link href='https://www.belleaukitchen.com' rel='canonical'/>
+<meta content='0;url=https://www.belleaukitchen.com' http-equiv='refresh'/>
+</b:if>
+<b:skin>
+<![CDATA[/*-----------------------------------------------
+Blogger Template Style
+Name: B2W
+----------------------------------------------- */
+]]>
+</b:skin>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+<!-- --><style type="text/css">@import url(https://www.blogger.com/static/v1/v-css/navbar/3334278262-classic.css);
+div.b-mobile {display:none;}
+</style>
+
+</head>
+<body><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d8053345370816924941\x26blogName\x3dBelleau+Kitchen\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dCLASSIC\x26searchRoot\x3dhttps://belleaukitchen.blogspot.com/search\x26blogLocale\x3den_GB\x26v\x3d2\x26homepageUrl\x3dhttp://belleaukitchen.blogspot.com/\x26vt\x3d822697635153818122',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script>
+<b:section class='main' id='main' showaddelement='no'>
+<b:widget id='Blog1' locked='false' title='Blog Posts' type='Blog'></b:widget>
+</b:section>
+<b:if cond='data:blog.pageType == "item"'>
+<script type="text/javascript">
+window.location.replace("https://www.belleaukitchen.com/?b2w="+encodeURI(window.location.protocol + "//" + window.location.host+window.location.pathname));
+</script>
+<b:else></b:else>
+<script type="text/javascript">
+window.location.replace("https://www.belleaukitchen.com"+window.location.pathname);
+</script>
+</b:if>
+<div style='margin: 0 auto;text-align:center;'> <h1>This Page</h1>
+<p>has moved to a new address:</p>
+<b:if cond='data:blog.pageType == "item"'>
+<a expr:href='"https://www.belleaukitchen.com?b2w="+data:blog.url'><data:blog.pageTitle/></a>
+<b:else></b:else>
+<a href='https://www.belleaukitchen.com'>https://www.belleaukitchen.com</a>
+</b:if>
+<p>Sorry for the inconvenience… </p>
+Redirection provided by <a href="http://rtcamp.com/" title="Blogger to WordPress Migration Service">Blogger to WordPress Migration Service</a></div>
+
+
+<!-- 'It is your responsibility to notify your visitors about cookies used and data collected on your blog. Blogger makes a standard notification available for you to use on your blog, and you can customise it or replace it with your own notice. See http://www.blogger.com/go/cookiechoices for more details.' -->
+<script src="/js/cookienotice.js" defer></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function(event) {
+    window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+        (window.cookieOptions && cookieOptions.msg) || 'This site uses cookies from Google to deliver its services and to analyse traffic. Your IP address and user agent are shared with Google, together with performance and security metrics, to ensure quality of service, generate usage statistics and to detect and address abuse.',
+        (window.cookieOptions && cookieOptions.close) || 'Got it',
+        (window.cookieOptions && cookieOptions.learn) || 'Learn more',
+        (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+  });
+</script>
+
+</body>
+</html>

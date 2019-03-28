@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Not found | Wildlife Online</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for petefreitag.com" href="https://www.wildlifeonline.me.uk/blog/rss">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.wildlifeonline.me.uk/?css=inc/style.v.1533762519">
+<link rel="stylesheet" href="/assets/js/magnific/magnific-popup.css">
+
+</head>
+<body>
+
+
+<div class="row-nav">	
+<nav class="nav">
+
+	
+	
+
+	<div class="logoalt">
+		<a href="https://www.wildlifeonline.me.uk/"><img src="/assets/images/logoalt.png" width="640" height="240" alt="Wildlife Online"></a>
+	</div>
+
+	
+	<label for="search-checkbox" id="search-label">Search</label>
+	<input type="checkbox" id="search-checkbox" name="tog1" value="">
+	<form id="search" class="form-search" method="post" action="https://www.wildlifeonline.me.uk/"  >
+<div class='hiddenFields'>
+<input type="hidden" name="ACT" value="22" />
+<input type="hidden" name="RES" value="" />
+<input type="hidden" name="meta" value="zgF2jS+NC+v/Ufju/D4SIA501jqL7Oj+5qrBdARERpFMeJoChePnI5AAjKOMfsgTadpixXtUhGEGPKi1uSMKqXpn4b/WdUgRKS7iAo5JXlan/LaiVecQqMOMW5IShiTGRR68egQkGUTH5cQbNArM+qSl/Upg9udC9nhUdForrBPpUm35z/NguF+CruiSxeeyocUqhwZiDW6gUmCHmZWM5dXw3b8DhspdMI8GnBiZN95uL9KsOP3QvaIjdHJHa8oTJkSrNoTWUPnT0zqn/71Zi+eRqVz+h9AeTDWI4gzx8dxkSu0iqQTQaXn/QsmUJ9eIaYL2DHCEH+YcOpFjcwg9qTHdCGnBT8SQ7LAqjqB4Hfb1bCuJuQ7RwRVsguhdPatG3l2AeQttlNcgNWmVbGXZpEr9HxCVJIrkZJdhd2OJEm16g7sobTknV92PDqmkeo9uNwfzROVKuR5QswFGW7COLw==" />
+<input type="hidden" name="site_id" value="1" />
+<input type="hidden" name="csrf_token" value="2f0558757648c7b9b390c15f0f82b209d99b9ce9" />
+</div>
+
+
+		<input type="search" name="keywords" id="keywords" value="" maxlength="100" placeholder="Search..." class="search-keywords"><button type="submit" class="search-btn"><img src="/assets/images/icon-search.png" width="32" height="32" alt="Search"></button>
+	</form>
+	
+
+	
+	<label for="menu-checkbox" id="menu-label">Menu</label>
+	<input type="checkbox" id="menu-checkbox" name="tog2" value="">
+	<ul id="menu" class="menu">
+		
+		<li><a href="https://www.wildlifeonline.me.uk/animals/class/birds">Birds</a></li>
+		
+		<li><a href="https://www.wildlifeonline.me.uk/animals/class/mammals">Mammals</a></li>
+		
+		<li><a href="https://www.wildlifeonline.me.uk/animals/class/reptiles">Reptiles</a></li>
+		
+		<li><a href="https://www.wildlifeonline.me.uk/animals/class/sharks-rays">Sharks &amp; Rays</a></li>
+		
+		<li><a href="https://www.wildlifeonline.me.uk/gallery">Gallery</a></li>
+		<li><a href="https://www.wildlifeonline.me.uk/articles">Articles</a></li>
+		<li><a href="https://www.wildlifeonline.me.uk/blog">Blog</a></li>
+		<li><a href="https://www.wildlifeonline.me.uk/contact">Contact</a></li>
+	</ul>
+
+</nav>
+</div>
+
+<div class="main">
+
+
+
+
+<div class="row-header">
+<header class="header">
+	<h1>Page not found</h1>
+</header>
+</div>
+
+<div class="row-section">
+<header class="section">
+	<p>Oops! It seems the page you were looking for has gone the way of the dinosuars - extinct!</p>
+</header>
+</div>
+
+</div>
+
+<div class="row-footer">
+<footer class="footer">
+
+	<div class="grid">
+		<div class="grid3">
+			<h2 class="footer-heading">About</h2>
+			<ul class="footer-links">
+				
+				<li><a href="https://www.wildlifeonline.me.uk/about/whats-planned">What&#8217;s planned?</a></li>
+				
+				<li><a href="https://www.wildlifeonline.me.uk/about/photos-needed">Photos Needed</a></li>
+				
+				<li><a href="https://www.wildlifeonline.me.uk/about/disclaimer">Disclaimer</a></li>
+				
+				<li><a href="https://www.wildlifeonline.me.uk/about/site-faq">Site FAQ</a></li>
+				
+				<li><a href="https://www.wildlifeonline.me.uk/about/credits">Credits</a></li>
+				
+				<li><a href="https://www.wildlifeonline.me.uk/about/about-wildlife-online">About Wildlife Online</a></li>
+				
+				<li><a href="https://www.wildlifeonline.me.uk/about/about-the-author">About the Author</a></li>
+				
+				<li><a href="https://www.wildlifeonline.me.uk/contact">Contact</a></li>
+			</ul>
+		</div>
+		<div class="grid3">
+			<h2 class="footer-heading">Site sections</h2>
+			<ul class="footer-links">
+				<li><a href="https://www.wildlifeonline.me.uk/animals">Animals</a></li>
+				<li><a href="https://www.wildlifeonline.me.uk/gallery">Photo gallery</a></li>
+				<li><a href="https://www.wildlifeonline.me.uk/questions">Questions & answers</a></li>
+				<li><a href="https://www.wildlifeonline.me.uk/bibliography">Bibliography</a></li>
+				<li><a href="https://www.wildlifeonline.me.uk/links">Links</a></li>
+				<li><a href="https://www.wildlifeonline.me.uk/sitemap">Site map</a></li>
+				<li><a href="https://www.wildlifeonline.me.uk/blog/rss">Blog RSS feed</a></li>
+			</ul>
+		</div>
+		<div class="grid3">
+			<h2 class="footer-heading">Social media</h2>
+			<ul class="footer-links">
+			<li><a href="https://www.facebook.com/marc.baldwin.92">Facebook</a></li>
+			<li><a href="https://www.flickr.com/photos/wildlifeonline/">Flickr</a></li>
+			<li><a href="https://twitter.com/WLOL_2003">Twitter</a></li>
+			<li><a href="https://www.youtube.com/channel/UCXCnXZ933-g2yMj2a-h3JwQ">YouTube</a></li>
+			</ul>
+		</div>
+
+	</div>
+	
+	<p class="poweredby">&copy; 2019 Wildlife Online - <a href="https://expressionengine.com/" rel="nofollow">Powered by ExpressionEngine</a></p>
+
+</footer>
+</div>
+
+
+<script type="text/javascript" charset="utf-8" src="https://www.wildlifeonline.me.uk/?ACT=jquery"></script>
+<script src="/assets/js/magnific/jquery.magnific-popup.min.js"></script>
+<script>
+$(document).ready(function() {
+  $('.fyi-link').magnificPopup({
+  type:'inline',
+  	gallery:{enabled:true}
+  
+  });
+  $('.gallery-link').magnificPopup({
+  type:'image',
+  	gallery:{enabled:true}
+  
+  });
+});
+</script>
+
+
+
+</body>
+</html>

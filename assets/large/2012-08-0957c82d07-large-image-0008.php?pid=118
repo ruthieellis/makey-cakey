@@ -1,0 +1,522 @@
+<!doctype html>
+<html prefix="og: http://ogp.me/ns#">
+  <head>
+    <link rel="preload" href="https://musicglue-themes.global.ssl.fastly.net/stylesheets/43156761-a754-47f5-9887-d562a4e7f7e4/42/ec8dc3ca-cdd9-4700-b81d-462409270d97/torrent.css?v=1" as="style" />
+    <link rel="preload" href="https://polyfill.musicglue.com/v2/polyfill.min.js?unknown=polyfill&features=default,Array.prototype.find,Element.prototype.dataset,es6,es7,fetch,Intl.~locale.en" as="script" />
+    <link rel="preload" href="https://musicglue-production-profile-components.global.ssl.fastly.net/brkwtr/vendor/3e/80/de/54/65/37/94/63/50/f9.js?v=1" as="script" crossorigin="anonymous" />
+    <link rel="preload" href="https://musicglue-production-profile-components.global.ssl.fastly.net/brkwtr/locale.en/6e/e0/a6/09/55/85/42/2b/ac/4b.js?v=1" as="script" crossorigin="anonymous" />
+    <link rel="preload" href="https://musicglue-production-profile-components.global.ssl.fastly.net/brkwtr/app/c1/cb/6e/a0/52/22/92/64/0f/79.js?v=1" as="script" crossorigin="anonymous" />
+    
+
+
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>Stereo</title>
+
+    
+
+    
+    
+
+    <link rel="icon" type="image/png" href="https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/favicon.png?u=aHR0cHM6Ly9tdXNpY2dsdWV3d3dhc3NldHMuczMuYW1hem9uYXdzLmNvbS9mYXZpY29uLnBuZw%3D%3D&amp;height=16&amp;width=16&amp;v=2" sizes="16x16">
+    <link rel="icon" type="image/png" href="https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/favicon.png?u=aHR0cHM6Ly9tdXNpY2dsdWV3d3dhc3NldHMuczMuYW1hem9uYXdzLmNvbS9mYXZpY29uLnBuZw%3D%3D&amp;height=32&amp;width=32&amp;v=2" sizes="32x32">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/favicon.png?u=aHR0cHM6Ly9tdXNpY2dsdWV3d3dhc3NldHMuczMuYW1hem9uYXdzLmNvbS9mYXZpY29uLnBuZw%3D%3D&amp;height=180&amp;width=180&amp;bg=%23ffffff&amp;v=2">
+
+    <link rel="stylesheet" type="text/css" href="https://musicglue-themes.global.ssl.fastly.net/stylesheets/43156761-a754-47f5-9887-d562a4e7f7e4/42/ec8dc3ca-cdd9-4700-b81d-462409270d97/torrent.css?v=1" id="themeStyleSheet">
+
+    <script>
+      window.BASE_URL = 'https://www.stereocafebar.com';
+      window.GRAPH_URL = '/__graph';
+      window.PREVIEW_ORIGIN = '';
+      window.PROFILE_ID = '8ce7f5b0-09d5-0132-852b-3e57b559d274';
+      
+      window.PROFILE_PATH = '';
+      window.PROFILE_URL = 'https://www.stereocafebar.com';
+      window.SHRINKRAY_URL = 'https://musicglue-images-prod.global.ssl.fastly.net/resize';
+    </script>
+
+    
+
+    
+      
+      
+        <meta property="og:description" content="Stereo. Home, Food &amp; Drink, Live Events, Clubs, Hire and Find Us" />
+      
+    
+      
+      
+        <meta name="description" content="Stereo. Home, Food &amp; Drink, Live Events, Clubs, Hire and Find Us" />
+      
+    
+      
+      
+        <meta property="og:site_name" content="Stereo" />
+      
+    
+      
+      
+        <meta property="og:title" content="Stereo" />
+      
+    
+      
+      
+        <meta property="og:type" content="website" />
+      
+    
+      
+      
+        <meta property="og:url" content="https://www.stereocafebar.com/__404" />
+      
+    
+      
+      
+        <meta property="og:image" content="https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images?u=aHR0cHM6Ly9tdXNpY2dsdWUtdXNlci1hcHAtcC02LXAuczMuYW1hem9uYXdzLmNvbS9vcmlnaW5hbHMvZmYyM2M1MzAtMTIyOC0wMTM1LWE3YzQtNzZlZDgyYzBlZDA5&amp;height=1200&amp;mode=fit&amp;width=1200&amp;v=2" />
+      
+    
+  </head>
+
+  <body
+      data-page-categories=""
+      data-page-layout="default"
+      data-page-path="/__404"
+      data-page-tags=""
+      data-page-type="not_found"
+  >
+    <div id="root">
+      <div class="mg-layout">
+        <div class="wrapper">
+          
+            <header>
+  <div class="Header">
+    <section id="HeaderBanner" class="BannerWrapper">
+      <div class="Banner">
+        <div class="Banner-content">
+          
+            <a class="Banner-logo" href="/">
+              <img
+                sizes="(min-width: 500px) 500px, 100vw"
+                srcset="https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/STEREOLOGOREDO2018_WEBSITELOGO.png?u=aHR0cHM6Ly9kMTgwcWJkYTZvN2U0ay5jbG91ZGZyb250Lm5ldC8yZC8xZS8zZi85Zi9jYy9mNS80Yi9lZS85Mi82MS8xMy9lMC84Ni9hZS9hYi8xOS9TVEVSRU9MT0dPUkVETzIwMThfV0VCU0lURUxPR08ucG5n&amp;width=500&amp;v=2 500w,
+                        https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/STEREOLOGOREDO2018_WEBSITELOGO.png?u=aHR0cHM6Ly9kMTgwcWJkYTZvN2U0ay5jbG91ZGZyb250Lm5ldC8yZC8xZS8zZi85Zi9jYy9mNS80Yi9lZS85Mi82MS8xMy9lMC84Ni9hZS9hYi8xOS9TVEVSRU9MT0dPUkVETzIwMThfV0VCU0lURUxPR08ucG5n&amp;width=700&amp;v=2 700w,
+                        https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/STEREOLOGOREDO2018_WEBSITELOGO.png?u=aHR0cHM6Ly9kMTgwcWJkYTZvN2U0ay5jbG91ZGZyb250Lm5ldC8yZC8xZS8zZi85Zi9jYy9mNS80Yi9lZS85Mi82MS8xMy9lMC84Ni9hZS9hYi8xOS9TVEVSRU9MT0dPUkVETzIwMThfV0VCU0lURUxPR08ucG5n&amp;width=900&amp;v=2 900w,
+                        https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/STEREOLOGOREDO2018_WEBSITELOGO.png?u=aHR0cHM6Ly9kMTgwcWJkYTZvN2U0ay5jbG91ZGZyb250Lm5ldC8yZC8xZS8zZi85Zi9jYy9mNS80Yi9lZS85Mi82MS8xMy9lMC84Ni9hZS9hYi8xOS9TVEVSRU9MT0dPUkVETzIwMThfV0VCU0lURUxPR08ucG5n&amp;width=1100&amp;v=2 1100w"
+                src="https://musicglue-images-prod.global.ssl.fastly.net/stereo/profile/images/STEREOLOGOREDO2018_WEBSITELOGO.png?u=aHR0cHM6Ly9kMTgwcWJkYTZvN2U0ay5jbG91ZGZyb250Lm5ldC8yZC8xZS8zZi85Zi9jYy9mNS80Yi9lZS85Mi82MS8xMy9lMC84Ni9hZS9hYi8xOS9TVEVSRU9MT0dPUkVETzIwMThfV0VCU0lURUxPR08ucG5n&amp;width=700&amp;v=2"
+              />
+            </a>
+          
+        </div>
+      </div>
+    </section>
+    <div class="MenuWrapper ">
+      <div class="container">
+        <div class="header-bar">
+          
+          <nav class="Menu" id="MainMenu">
+            <div role="main" class="TopMenu">
+              
+    <a
+    href="/"
+    target="_self"
+    title="Home"
+    class="Link MenuLink MenuLink_inactive InternalLink"
+    
+  >
+    Home
+  </a>
+
+    <a
+    href="/food-and-drink"
+    target="_self"
+    title="Food &amp; Drink"
+    class="Link MenuLink MenuLink_inactive InternalLink"
+    
+  >
+    Food &amp; Drink
+  </a>
+
+    <a
+    href="/live-events"
+    target="_self"
+    title="Live Events"
+    class="Link MenuLink MenuLink_inactive InternalLink"
+    
+  >
+    Live Events
+  </a>
+
+    <a
+    href="/clubs"
+    target="_self"
+    title="Clubs"
+    class="Link MenuLink MenuLink_inactive InternalLink"
+    
+  >
+    Clubs
+  </a>
+
+    <a
+    href="/hire"
+    target="_self"
+    title="Hire"
+    class="Link MenuLink MenuLink_inactive InternalLink"
+    
+  >
+    Hire
+  </a>
+
+    <a
+    href="/find-us"
+    target="_self"
+    title="Find Us"
+    class="Link MenuLink MenuLink_inactive InternalLink"
+    
+  >
+    Find Us
+  </a>
+
+
+              </div>
+            
+  <div class="Card SocialAccountsWidget">
+  
+  <div class="Card-content">
+    
+    <ul class="SocialAccounts" itemscope itemtype="http://schema.org/Organization">
+      <link itemprop="url" href="/">
+      
+        <li class="SocialAccount">
+          <a itemprop="sameAs" href="https://facebook.com/Stereo-Cafe-Bar-198149335046" target="_blank" rel="noopener nofollow" class="SocialAccount-link SocialAccount-Facebook"></a>
+        </li>
+      
+        <li class="SocialAccount">
+          <a itemprop="sameAs" href="https://instagram.com/stereocafebar" target="_blank" rel="noopener nofollow" class="SocialAccount-link SocialAccount-Instagram"></a>
+        </li>
+      
+    </ul>
+  
+  </div>
+</div>
+
+
+
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div id="StickyBar" data-scroll data-scroll-trigger="MainMenu" data-scroll-outclass="menu_vis">
+  <div class="container">
+    <div class="MobileMenu">
+      <div class="MobileMenu-toggle">
+        <a class="Burger" data-action="toggleClass" data-toggle-class-target=".MobileMenu" data-toggle-class-value="MobileMenu_expanded">
+          <div class="bits">
+            <span class="top"></span>
+            <span class="meat"></span>
+            <span class="bottom"></span>
+          </div>
+        </a>
+      </div>
+      <div class="MobileMenu-wrapper">
+        <nav class="MobileMenu-menu">
+          
+            
+            <a
+              href="/home"
+              target="_self"
+              title="Home"
+              class="Link MenuLink  InternalLink"
+              
+            >
+              Home
+            </a>
+          
+            
+            <a
+              href="/food-and-drink"
+              target="_self"
+              title="Food &amp; Drink"
+              class="Link MenuLink  InternalLink"
+              
+            >
+              Food &amp; Drink
+            </a>
+          
+            
+            <a
+              href="/live-events"
+              target="_self"
+              title="Live Events"
+              class="Link MenuLink  InternalLink"
+              
+            >
+              Live Events
+            </a>
+          
+            
+            <a
+              href="/clubs"
+              target="_self"
+              title="Clubs"
+              class="Link MenuLink  InternalLink"
+              
+            >
+              Clubs
+            </a>
+          
+            
+            <a
+              href="/hire"
+              target="_self"
+              title="Hire"
+              class="Link MenuLink  InternalLink"
+              
+            >
+              Hire
+            </a>
+          
+            
+            <a
+              href="/find-us"
+              target="_self"
+              title="Find Us"
+              class="Link MenuLink  InternalLink"
+              
+            >
+              Find Us
+            </a>
+          
+        </nav>
+        <div class="MobileMenu-background" data-action="removeClass" data-remove-class-target=".MobileMenu" data-remove-class-value="MobileMenu_expanded"></div>
+      </div>
+    </div>
+    <div class="stickynav">
+      
+
+      
+      
+      <div class="HeaderBarBasket">
+        <span data-component="ReservationExpiry" class="Component " data-props="e30="></span>
+
+        <a href="/basket" rel="nofollow" class="HeaderBarBasket-link">
+          <span data-component="BasketCount" class="Component HeaderBarBasket-count" data-props="e30="></span>
+          <span class="HeaderBarBasket-link-icon"></span>
+        </a>
+      </div>
+    </div>
+  </div>
+  <span data-component="LoadingBar" class="Component " data-props="e30="></span>
+</div>
+
+
+
+
+
+          
+
+          <main class="Main content SidebarTemplate">
+  <div class="MainWrapper">
+    <div class="container">
+      <div class="MainContent">
+        
+          <div class="EmptySection NotFound">
+ Not Found
+</div>
+
+        
+      </div>
+      
+        <aside class="Sidebar">
+  
+    <div class="Card MarkdownWrapper">
+  
+  <div class="Card-content">
+    
+  <h2 class="Center">
+<a class="Button" href="https://drive.google.com/file/d/1lkAneWkeBHq0e7iK3N74jdygYwv1AR2d/view?usp=sharing">Menu</a>
+<a class="Button" href="https://drive.google.com/file/d/1lm0y_EWAbrJMBQWhIelgfF8mRpsTpKJm/view?usp=sharing">Drinks</a>
+</h2>
+
+
+  </div>
+</div>
+
+
+  
+    <div class="Card MarkdownWrapper">
+  
+    <div class="Card-header">
+      <div class="Card-title">Contact us to book</div>
+    </div>
+  
+  <div class="Card-content">
+    
+  <p>Tel: +44(0)141 222 2254</p>
+
+
+  </div>
+</div>
+
+
+  
+    <div class="Card MarkdownWrapper">
+  
+    <div class="Card-header">
+      <div class="Card-title">Opening</div>
+    </div>
+  
+  <div class="Card-content">
+    
+  <p>Mo - Th : 11am - 1am</p>
+
+<p>Fr - Sa : 11am - 3am</p>
+
+<p>Su : 12nn - 1am</p>
+
+
+  </div>
+</div>
+
+
+  
+  <!--
+		<div class="snapwidget-wrap">
+    	<iframe src="https://snapwidget.com/embed/565992" class="snapwidget-widget" allowTransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;"></iframe>
+  	</div>
+	-->
+</aside>
+
+      
+    </div>
+  </div>
+</main>
+
+
+          
+            <footer>
+  <div class="container">
+    <div class="Footer">
+      <div class="Footer-settings">
+        <span data-component="ViewerCountrySelect" class="Component Footer-settings-country" data-props="e30="></span>
+        <span data-component="ViewerLanguageSelect" class="Component Footer-settings-language" data-props="e30="></span>
+        <span data-component="ViewerCurrencySelect" class="Component Footer-settings-currency" data-props="e30="></span>
+        <br/>
+        <span data-component="ChangeCookieSettings" class="Component " data-props="eyJtYW5hZ2VkQnkiOiJTdGVyZW8ifQ=="></span>
+      </div>
+
+      <div class="Footer-logos">
+        
+        <a href="https://www.musicglue.com/" target="_blank" rel="noopener" class="Footer-logo Footer-logos-mg">
+          <span class="musicglue-logo"></span>
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  <span data-component="CookieFooter" class="Component " data-props="eyJtYW5hZ2VkQnkiOiJTdGVyZW8ifQ=="></span>
+
+
+          
+        </div>
+      </div>
+    </div>
+    <script>
+      window.initialStore = {"profile":{"uuid":"8ce7f5b0-09d5-0132-852b-3e57b559d274","websiteMode":true,"name":"Stereo","slug":"stereo"},"viewer":{"id":"ef821a53-d71a-4303-9927-efccd6e0c4f2","currency":"gbp","country":{"code":"gb","name":"United Kingdom","region":"Europe"},"language":"en","marketingCookies":null,"analyticsCookies":null},"pixelTrackingConfig":{"__typename":"PixelTrackingConfig","googleAnalytics":["UA-121852325-1"],"facebookPixel":null,"twitterTag":null,"mgGoogleAnalyticsKey":"UA-1946445-18"},"streams":{"tracks":[],"playback":{"pending":false,"hasNext":false,"streamId":null,"playlistId":"page"}},"page":{"themePreview":null,"secret":null,"eventsQueue":[]}};
+      if (window.hydrateStore) window.hydrateStore();
+    </script>
+    <script>
+      var performance = window.performance;
+      var hasPerf = performance && typeof performance.now === "function";
+      var loadedStates = {
+        UNREPORTED: "unreported",
+        FAILED: "failed to load",
+        LOADED: "loaded"
+      };
+
+      window.__resourcesLoadedState = {
+        app: { state: loadedStates.UNREPORTED, timing: undefined },
+        language: { state: loadedStates.UNREPORTED, timing: undefined },
+        polyfill: { state: loadedStates.UNREPORTED, timing: undefined },
+        preview: { state: loadedStates.UNREPORTED, timing: undefined },
+        vendor: { state: loadedStates.UNREPORTED, timing: undefined },
+      };
+
+      function reportResourceFailure(resource) {
+        window.__resourcesLoadedState[resource].state = loadedStates.FAILED;
+
+        if (hasPerf) {
+          window.__resourcesLoadedState[resource].timing = performance.now();
+        }
+      }
+
+      function reportResourceSuccess(resource) {
+        window.__resourcesLoadedState[resource].state = loadedStates.LOADED;
+
+        if (hasPerf) {
+          window.__resourcesLoadedState[resource].timing = performance.now();
+        }
+      }
+    </script>
+
+    <script
+      src="https://polyfill.musicglue.com/v2/polyfill.min.js?unknown=polyfill&features=default,Array.prototype.find,Element.prototype.dataset,es6,es7,fetch,Intl.~locale.en"
+      onload="reportResourceSuccess('polyfill')"
+      onerror="reportResourceFailure('polyfill')"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="https://musicglue-production-profile-components.global.ssl.fastly.net/brkwtr/vendor/3e/80/de/54/65/37/94/63/50/f9.js?v=1"
+      onload="reportResourceSuccess('vendor')"
+      onerror="reportResourceFailure('vendor')"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="https://musicglue-production-profile-components.global.ssl.fastly.net/brkwtr/locale.en/6e/e0/a6/09/55/85/42/2b/ac/4b.js?v=1"
+      onload="reportResourceSuccess('language')"
+      onerror="reportResourceFailure('language')"
+    ></script>
+    <script
+      crossorigin="anonymous"
+      src="https://musicglue-production-profile-components.global.ssl.fastly.net/brkwtr/app/c1/cb/6e/a0/52/22/92/64/0f/79.js?v=1"
+      onload="reportResourceSuccess('app')"
+      onerror="reportResourceFailure('app')"
+    ></script>
+    
+    
+
+  <!-- Google Analytics -->
+  <script>
+    window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+    
+      ga('create', 'UA-1946445-18', 'auto', 'mgTracker');
+      
+        ga('mgTracker.set', 'anonymizeIp', true);
+      
+      ga('mgTracker.send', 'pageview');
+      ga('mgTracker.require', 'ecommerce');
+    
+
+    
+      
+        
+
+        ga('create', 'UA-121852325-1', 'auto', 'profileTracker1');
+        
+          ga('profileTracker1.set', 'anonymizeIp', true);
+        
+        ga('profileTracker1.send', 'pageview');
+        ga('profileTracker1.require', 'ecommerce');
+      
+    
+  </script>
+  <script async src='https://www.google-analytics.com/analytics.js'></script>
+  <!-- End of Google Analytics -->
+
+
+
+
+  </body>
+</html>

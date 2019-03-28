@@ -1,0 +1,1241 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>2,854 Breakfast Recipes | MrBreakfast.com</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<META NAME="description" CONTENT="Breakfast recipes categorized by food type (ie. pancakes, omelets) and meal type (ie. international, healthy).  Includes the 25 most popular breakfast recipes. Find a recipe, review recipes or add your own.">
+<META NAME="Keywords" CONTENT="breakfast, breakfast recipes, recipe, American, international, experimental, regional, healthy, pancakes, waffles, French toast, omelette, omelets, eggs, scrambles, crepe, cereal, oatmeal, toast">
+<link rel="image_src" href="https://www.mrbreakfast.com/images/thumb_recipe1.jpg">
+
+<STYLE TYPE="text/css">
+.space7 {margin-top: 10px; font-size: 9pt;}
+.tabpic {
+	border-width: 1px;
+	border-style: solid;
+	border-color: #2e5671;
+	margin-top: 24px;
+	margin-bottom: 5px;
+	}
+.tabtext {
+	margin-left: 6px;
+	 font-size:11px;
+	 font-weight: bold;
+	}	
+		
+.recipe1left {
+	float: left;
+	width: 308px;
+	margin-bottom: 32px;
+	margin-right: 60px;
+	clear: both;
+	}	
+	
+.recipe1right {
+    float: left;
+	width: 308px; 
+	margin-bottom: 38px;
+	}
+	
+.itemhead {
+		font-size:14pt;
+		font-weight: bold;
+		color: #3b617a;
+	}	
+	
+.itemhead2 {
+		font-size:10pt;
+		font-weight: bold;
+		color: #3b617a;
+		border-bottom: 1px solid #3b617a;
+	}	
+	
+.itemhead3 {
+		font-size:20pt;
+		color: #3b617a;
+	}		
+	
+.seemore {
+  float: right;
+  margin-top: 5px;
+  }	
+
+.pics {
+	border: 1px solid #3b617a;
+	margin-top: 8px;
+	margin-bottom: 6px;
+	}	
+
+.item {
+	float: left;
+	width: 94px;
+	font-size: 8pt;
+	margin-right: 8px;
+	}	
+	
+.item-r {
+	float: left;
+	width: 94px;
+	font-size: 8pt;
+	margin-right: 2px;
+	}		
+
+.item2 {
+	float: left;
+	width: 127px;
+	font-size: 11pt;
+	margin-right: 8px;
+	font-weight: bold;
+	}	
+
+h1 {
+	font-size: 18pt;
+	color: #2e5671;
+	margin-bottom:2px;
+	font-weight:bold;
+	}		 
+	
+#left-column-pg-defined {
+	width: 686px;
+	float: left;
+	margin-top:20px;
+	}	
+	
+#no-show-mobile	{
+	width:100px;
+	float: left;
+	margin-right: 80px;
+	margin-top:18px;
+}	
+
+#show-mobile-only	{
+	display:none;
+	width: 200px;
+	float: left;
+	margin-top: 50px;
+	margin-right: 40px;
+}
+</STYLE>
+<script>
+  (function() {
+    var cx = '010271149094816246414:WMX-2100687761';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+
+<style type="text/css">
+
+body {
+	font: 9pt Verdana, Arial, Helvetica, sans-serif;
+	background: white;
+	margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+	padding: 0;
+	text-align: center;  /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;
+}
+.oneColElsCtr #container {
+	width: 900px;
+	background: #FFFFFF;
+	margin: 0 auto; /* the auto margins (in conjunction with a width) center the page */
+	text-align: left; /* this overrides the text-align: center on the body element. */
+}
+.oneColElsCtr #mainContent {
+	padding: 0 0px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+}
+
+
+.mrsides {
+border-left:#c44743 1px solid;
+border-right:#c44743 1px solid;
+}
+
+
+	A:link		{
+		color: #2e5671;
+		text-decoration:none;
+	}
+	A:visited	{
+	color:#2e5671;
+	text-decoration:none;
+	
+	}
+	A:active	{ color:red; }
+	A:hover 	{
+		color: #0186df;
+	}
+	
+	.sidehead {font: 8pt verdana,helvetica,arial; font-weight: bold; color:#ca0a09;}
+	.sidetoplink A:link		{
+		color: #ca0a09;
+		text-decoration: none;
+		font-weight: bold;
+}
+
+.sidetoplink A:visited	{ color: #ca0a09;
+		text-decoration: none;
+		font-weight: bold;
+	}
+
+	.sidetoplink A:hover 	{
+		color: #ca0a09;
+		text-decoration: underline;
+	}
+
+	.sidetoplink A:active	{ color:red; }
+	
+	.sidelists li {
+	font-size:8pt;
+	margin-bottom:4px;
+	}
+	
+	
+	/* legacy code from style1.inc below */
+td {font: 10pt verdana, helvetica, arial, sans-serif;}	
+.menu a:hover {color:red; text-decoration:none; background-color: yellow;}
+.menu {font-family: verdana,helvetica,arial; font-size : 10pt; font-weight: bold; color: yellow; background-color : green; text-decoration: none;}
+.noline {text-decoration: none;}
+.impact {font: bold 10pt verdana,helvetica,arial;}
+.impact2 {font: bold 14pt verdana,helvetica,arial; text-decoration:none;}
+.impact3 {font: bold 13pt verdana,helvetica,arial; text-decoration:none;}
+.impact4 {font: bold 12pt verdana,helvetica,arial; text-decoration:none;}
+.small {font: 8pt verdana,helvetica,arial;}
+.small2 {font: bold 8pt verdana,helvetica,arial; text-decoration:none;}
+.small3 {font: bold 9pt verdana,helvetica,arial; text-decoration:none;}
+.red {color:#cc0033;}
+.black {color:black;}
+.brownie {color:#8C492E;}
+.light {color:#808080; font: 8pt;}
+.closed {font-size: 8pt; color: #ca0a09;} 
+
+/* rules for navigation menu */
+	/* ========================================== */
+	
+	#topnavholder {
+		width: 900px;
+		height: 27px;
+		border-left:#c44743 1px solid;
+		border-top:#c44743 1px solid;
+		border-bottom:#c44743 1px solid;
+		text-align: left;
+		background-color:#ffff99;
+		-webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+		-moz-box-sizing: border-box;    /* Firefox, other Gecko */
+		box-sizing: border-box;         /* Opera/IE 8+ */
+		}
+		
+	ul#navmenu {
+		background-color:#00FFFF;
+		margin: 0;
+		margin: 0px;
+		padding: 0px;
+		}	
+	ul#navmenu, ul.sub1, ul.sub2 {
+		list-style-type: none;
+		font-size: 9pt;
+		margin:0;
+		line-height:9pt;
+		}		
+	ul#navmenu li {
+		text-align: center;
+		position: relative;
+		float: left;
+		z-index:100;
+		}		
+	ul#navmenu a {
+		text-decoration: none;
+		display: block;
+		height: 25px;
+		line-height: 25px;
+		background-color: #ffff99;
+		color: #d72130;
+		font-weight: bold;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size: 10pt;
+		border-right:#c44743 1px solid;
+		border-bottom:#c44743 1px solid;
+		}		
+	.point1 {
+	        width: 147px;
+			}			
+	.point2 {
+	        width: 165px;
+			}			
+	.point3 {
+	        width: 165px;  /* was restaurants */
+			}			
+	.point4 {
+	        width: 153px;
+			}			
+	.point5 {
+	        width: 221px;
+			}			
+	.point6 {
+	        width: 213px;
+			}								
+	ul#navmenu .sub1 li {
+		margin-bottom: 0px;
+		}		
+	ul#navmenu .sub1 a {
+		width: 161px;
+		border-left:#c44743 1px solid;
+		border-bottom:#c44743 1px solid;
+		font-weight:normal;
+		text-align: left;
+		padding-left:6px;
+		font-size: 9pt;
+		}		
+	ul#navmenu .sub2 a {
+		margin-left: 77px;
+		}		
+	ul#navmenu li:hover > a {
+		background-color: #FFF;
+		}		
+	ul#navmenu li:hover a:hover {
+		background-color: #FFF;
+		}		
+	ul#navmenu ul.sub1 {
+		display: none;
+		position: absolute;
+		top: 26px;
+		left: -41px;
+		}		
+	ul#navmenu ul.sub2 {
+		display: none;
+		position: absolute;
+		top: 0px;
+		left: 51px;
+		}					
+	ul#navmenu li:hover .sub1 {
+		display: block;
+		}		
+	ul#navmenu .sub1 li:hover .sub2 {
+		display: block;
+		}				
+	.rarrow {
+		font-size: 6pt;
+		position: absolute;
+		top: 6px;
+		right: 4px;
+		color: #d72130;
+		}
+	/* End of rules for navigation menu */	
+	
+	
+/* NEW RESPONSIVE  CSS ... NEW RESPONSIVE  CSS .... NEW RESPONSIVE  CSS .... NEW RESPONSIVE  CSS */
+	
+/*-----------------------------------------------------------------------------------*/
+/*  Media Queries
+/*-----------------------------------------------------------------------------------*/
+#mobilenavigation {
+  display: none;
+}
+
+.oneColElsCtr #container {
+	width: 900px;
+	}
+
+#whole-page {
+	width:900px;
+	margin-right:10px;
+	margin-left: 10px;
+	}
+
+#left-column {
+	width:620px;
+	float: left;
+	margin-left: 20px;
+	margin-right: 60px;
+	margin-top:20px;
+	}
+	
+#left-column-wide {
+	width:690px;
+	float: left;
+	margin-left: 0px;
+	margin-right: 28px;
+	margin-top:20px;
+	}	
+	
+/* #left-column-pg-defined is defined on the page and then reponsive css here (after page css) takes over */		
+	
+#right200-column {
+	width:200px;
+	float: left;
+	margin-top: 40px;
+	text-align: center;
+	}
+	
+#right-column-narow {
+	width:172px;
+	float: left;
+	margin-top: 40px;
+	text-align: center;
+	}	
+	
+/* #right-column-pg-defined is defined on the page and then reponsive css here (after page css) takes over */	
+		
+body {
+	font-size:0.85em;
+	}	
+	
+#pic150 {
+	width: 150px;
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	float: right; 
+	text-align: center;
+}	
+
+#pic175 {
+	width: 175px;
+	margin-left: 12px;
+	margin-right: 12px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+	float: right; 
+	text-align: center;
+}
+	
+#addthis {
+    float:right;
+	margin-top:15px; 
+	margin-bottom:15px;
+	}
+	
+#whereyouat {
+	padding-top:20px;
+	margin-bottom:15px;
+	float:left;
+	}
+	
+  #wide_nav {
+    margin-top: 18px;
+  }		
+  .item3a img {max-width:150px;}	
+	
+
+
+/* Tablet Landscape Breakpoint
+---------------------------------------------*/
+@media screen and (max-width: 1024px) {
+  html {
+    -webkit-text-size-adjust: none;
+  }
+
+  html {
+    overflow-x: hidden;
+  }
+
+}
+
+/* Tablet Portrait Breakpoint
+---------------------------------------------*/
+
+@media screen and (max-width: 880px) {
+  #wide_nav {
+    display: none;
+  }
+  
+  .oneColElsCtr #container {
+	width: 100%;
+	}
+  
+  #whole-page {
+	width:92%;
+	padding-right:12px;
+	padding-left:18px;
+	}
+
+#left-column {
+	width:100%;
+	float: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top:2px;
+	}
+	
+#left-column-wide {
+	width:100%;
+	float: none;
+	}	
+	
+#left-column-pg-defined	{
+	width:100%;
+	float: none;
+	margin-left: 0px;
+	margin-right: 0px;
+	}
+	
+	
+#right200-column {
+	width:100%;
+	float: none;
+	margin-top: 40px;
+	text-align: center;
+	}
+	
+#right-column-pg-defined {
+	width:100%;
+	float: none;
+	margin-top: 40px;
+	}
+
+#no-show-mobile	{
+	display: none;
+}	
+
+#show-mobile-only {
+	display: block;
+}		
+	
+#mobilenavigation {
+  display: block;
+  width: 100%;
+  text-align:right;
+}	
+
+#mobilecontainer {
+	margin-top: 30px;
+	float:right;
+}
+
+.mobilenavpoint {
+	float: left;
+	padding-left: 10px;
+	padding-right: 20px;
+	}
+	
+#mobilelogo {
+	margin-top:12px;
+	float:left;
+	width: 200px;
+	}	
+	
+#cereal-navpoint-short {
+  display: none;
+}
+	
+	
+img {max-width:100%}	
+
+body {
+	font-size:0.85em;
+	}	  
+
+#addthis {
+	margin-top:5px; 
+	}
+	
+#whereyouat {
+	padding-top:5px;
+	}	
+	
+.home_mrbg {
+padding-left:0;
+background-image:none;
+margin-top:10px;
+margin-bottom: 34px;
+}
+
+.home_topfour {
+  margin-left:1%;
+  width: 24%;
+  }
+
+  
+	.item3a-home {
+	width: 170px;
+	margin-right: 6px;
+	}
+	
+	.item3a-alt {
+	width: 140px;
+	margin-right: 6px;
+	}
+	
+	.item3a-hot {
+	width: 150px;
+	}
+	
+	.hot-home-content {
+	padding-top:0;
+	margin-bottom:24px;
+	}
+
+
+	.pics3-home {
+	max-width: 170px;
+	} 
+	
+	.pics3-alt {
+	max-width: 140px;
+	} 
+	
+	#home-social {
+		margin-bottom:10px;
+		float:none;
+		text-align:center;
+		margin-right:2px;
+		} 
+	
+
+}
+
+
+/* custom for mobile nav
+---------------------------------------------*/
+@media screen and (max-width: 740px) {
+
+#home-navpoint {
+  display:none;
+  }	
+  	
+	
+#cereal-navpoint {
+  display: none;
+}  
+  
+#cereal-navpoint-short {
+  display: block;
+} 
+
+.inner-content-wide {
+	width:100%;
+	margin-left: 0;
+	margin-right: 0;
+	}
+.inner-content-narrow {
+	width:100%;
+	margin-left: 0;
+	margin-right: 0;
+}
+
+}
+
+/* custom for mobile nav
+---------------------------------------------*/
+@media screen and (max-width: 640px) {
+
+#mobilenavigation {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+#mobilecontainer {
+	margin-top: 10px;
+	float:none;	
+	margin-left: auto;
+    margin-right: auto;	
+	width: 410px;
+}
+
+#mobilelogo {
+	margin-top:12px;
+	float:none;
+	width: 192px;
+	clear:left;
+	margin-left: auto;
+    margin-right: auto;
+	}
+
+.no-show-mobile-640	{
+	display: none;
+	} 	
+
+.mobilenavpoint {
+font-size:90%;
+	} 
+	
+.home_topfour {
+  background-color:#ffffff;
+  }		
+	
+}	 	
+
+/* Mobile Landscape Breakpoint
+---------------------------------------------*/
+@media screen and (max-width: 500px) {
+ .oneColElsCtr #container {
+	width: 100%;
+	}
+
+  #whole-page {
+	width:92%;
+	padding-right:10px;
+	padding-left:5px;
+	}
+
+#left-column {
+	width:100%;
+	float: none;
+	margin-left: 0px;
+	padding-right: 0x;
+	margin-top:20px;
+	}
+	
+img {
+	max-width:96%;
+	}	
+
+#addthis {
+    display:none;
+	}
+	
+body {
+	font-size:0.9em;
+	}	
+
+#home-navpoint {
+  display:none;
+  }	
+  	
+	
+#cereal-navpoint {
+  display: none;
+}  
+  
+#cereal-navpoint-short {
+  display: block;
+}  
+
+#mobilecontainer {
+	margin-top: 7px;
+	float:none;	
+	margin-left: auto;
+    margin-right: auto;	
+	width: 330px;
+}
+	
+			
+.mobilenavpoint {
+font-size:80%;
+	padding-left: 10px;
+	padding-right: 10px;
+	}  	
+
+
+#no-show-mobile-500	{
+	display: none;
+}	
+
+#only-show-mobile-500	{
+	display: block;
+}
+
+.do-not-float {
+	float: none;
+	}
+	
+#right-column-narow {
+	width:100%;
+	}
+	
+.make-it-100 {
+	width:100%;
+	}		
+	
+.home_topfour {
+  margin-left:1%;
+  width:49%;
+  margin-top:0;
+  height:auto;
+  }	
+  
+  
+  	.item3a-home {
+	width: 48%;
+	margin-right: 2%;
+	height: auto;
+	margin-bottom:8px;
+	}
+
+
+	.pics3-home {
+	max-width: 100%;
+	}  
+	
+		.item3a-alt {
+	width: 48%;
+	margin-right: 2%;
+	height: 194px;
+	margin-bottom:10px;
+	}
+
+
+	.pics3-alt {
+	max-width: 100%;
+	}  
+	
+	
+}	
+	
+
+
+/* iPhone Portrait and similar
+---------------------------------------------*/
+@media screen and (max-width: 400px) {
+
+
+#pic150 {
+	width: 92%;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	float: none; 
+	text-align: center;
+}
+
+#pic175 {
+	width: 92%;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	float: none; 
+	text-align: center;
+}
+
+#ability2comment {
+  display:none;
+  }	
+  
+.no-show-mobile-400	{
+	display: none;
+}  
+
+.only-show-mobile-400 {
+	display: block;
+}  
+
+#mobilecontainer {
+	margin-top: 6px;
+	float:none;	
+	margin-left: auto;
+    margin-right: auto;	
+	width: 300px;
+}
+
+ .mobilenavpoint {
+font-size:76%;
+	padding-left: 8px;
+	padding-right: 8px;
+	}  
+	
+#whereyouat {
+	padding-top:1px;
+	margin-bottom:5px;
+	}	
+		
+.item3a img {max-width:126px;}	
+
+.item3a {
+	max-width:126px;
+	height: 176px;
+	margin-bottom:4px;
+	}
+	
+.item3a-hot {
+	width: 134px;
+	margin-right:8px;
+	}	
+	
+#left-column-pg-defined .item {
+   margin-right: 7px;
+   }
+   
+.recipe1left {
+	width: 302px;
+	margin-bottom: 24px;
+	}	
+	
+.recipe1right {
+	width: 302px;
+	margin-bottom: 24px;
+	}  
+#all .citytable {
+	width: 300px;
+	}
+.listtext {
+	 display: inline-block;
+}
+
+	.home_topfour {
+	height:230px;
+	}
+	
+	.home_topfour img {
+    max-height: 200px;
+	}
+
+
+	
+
+} 	 		
+
+</style>
+
+</head>
+<body class="oneColElsCtr">
+<div id="container">
+  <div id="mainContent">
+  
+  <div id="wide_nav">
+   <div style="width:898px; height:50px;">
+   
+   <div style="float:left; width: 200px;"><a href="index.asp"><img src="images/mrb_navlogo.gif" width="191" height="48" alt="Mr Breakfast" border="0"></a></div>
+   <div style="float:left; width: 366px; padding-top:5px;"><img src="images/mrb_all_breakfast.gif" width="258" height="22" alt="All Breakfast All The Time" border="0"><BR><img src="images/breakfast_words09.gif" width="258" height="21" alt="Over 2,800 Breakfast Recipes" border="0"></div>
+   <div style="float:left; width: 243px; padding-top:0; text-align:right;">
+   <gcse:searchbox-only></gcse:searchbox-only>
+</div>
+   <div style="float:left; width: 89px; text-align:right;"><img src="images/mrb_naveggs2015.jpg" alt="MrBreakfast.com" width="82" height="50" hspace="0" vspace="0" border="0"></div></div>
+   
+   
+   <div id="topnavholder">
+   <ul id="navmenu">
+	<li class="point1"><a href="index.asp">Home</a></li>
+	<li class="point2"><a href="recipe1.asp">Recipes</a>
+		<ul class="sub1">
+			<li><a href="#">By Food Item</a><span class="rarrow">&#9654;</span>
+                 <ul class="sub2">
+					<li><a href="recipe_collection.asp?subcategoryid=4">Pancakes</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=5">Waffles</a></li>
+                    <li><a href="recipe_collection.asp?subcategoryid=6">French Toast</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=1">Omelets</a></li>
+                    <li><a href="recipe_collection.asp?subcategoryid=2">Scrambles</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=3">Eggs, Etc.</a></li>
+                    <li><a href="recipe_collection.asp?subcategoryid=7">Oatmeal</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=9">Baked Goods</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=8">Homemade Cereals</a></li>
+                    <li><a href="recipe_collection.asp?subcategoryid=13">Fruity</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=10">Crepes</a></li>
+                    <li><a href="recipe_collection.asp?subcategoryid=11">Souffles</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=12">Quiche</a></li>
+                    <li><a href="recipe_collection.asp?subcategoryid=14">Breakfast Drinks</a></li>
+					<li><a href="recipe_collection.asp?subcategoryid=15">Other</a></li>
+				</ul>
+            </li>
+			<li><a href="#">By Breakfast Concept</a><span class="rarrow">&#9654;</span>
+            	<ul class="sub2" style="top:-1px;">
+					<li><a href="category.asp?categoryid=1" style="border-top:#c44743 1px solid;">American</a></li>
+					<li><a href="category.asp?categoryid=3">International</a></li>
+                    <li><a href="category.asp?categoryid=4">Healthy</a></li>
+                    <li><a href="category.asp?categoryid=2">Regional</a></li>
+                    <li><a href="category.asp?categoryid=5">Fancy</a></li>
+                    <li><a href="category.asp?categoryid=6">Experimental</a></li>                                   
+				</ul>            
+            </li>
+			<li><a href="super.asp">Recipe Super Index</a></li>
+        
+		</ul>
+	</li>
+	<li class="point4"><a href="times.asp">Library</a>
+		<ul class="sub1">
+			<li><a href="#">Breakfast Articles</a><span class="rarrow">&#9654;</span>
+            	<ul class="sub2">
+					<li><a href="article_list.asp">All Articles</a></li>
+                    <li><a href="ask.asp">Ask Mr Breakfast</a></li>
+                    <li><a href="article.asp?articleid=31">Breakfast Holidays</a></li>
+                    <li><a href="glossary_term.asp?glossaryID=152">Research And Statistics</a></li>                 		
+				</ul>                    
+            </li>
+			<li><a href="products.asp">Product Reviews</a></li>
+			<li><a href="#">About Mr Breakfast</a><span class="rarrow">&#9654;</span>
+            	<ul class="sub2" style="top:-1px;">
+					<li><a href="about.asp" style="border-top:#c44743 1px solid;">About The Site</a></li>
+					<li><a href="breakfast_expert.asp">About The Man</a></li>                           
+				</ul>                    
+            </li>
+            <li><a href="glossary.asp">Site Index</a></li>
+		</ul>
+	</li>
+	<li class="point5"><a href="breakfast/">Breakfast Blog</a></li>            
+    <li class="point6"><a href="cereal_home.asp">Cereal Project</a>
+      <ul class="sub1">
+			<li><a href="cereal_list.asp">Cereals - Alphabetical</a></li>
+			<li><a href="cereal_list_by_company.asp">Cereals By Company</a></li>
+			<li><a href="cereal_timeline.asp">Cereal Timeline</a></li>
+            <li><a href="cereal_votes.asp">Top 100 Cereals</a></li>
+			<li><a href="cereal_family_home.asp">Cereal Families</a></li>
+			<li><a href="cereal_video_library.asp">Video Library</a></li>
+            <li><a href="cereal_games.asp">Cereal Games</a></li>
+			<li><a href="cereal_topics.asp">Message Boards</a></li>
+			<li><a href="cereal_store.asp">Buy Cereal Online</a></li>
+            <li><a href="cereal_about.asp">About The Project</a></li>
+		</ul>        
+    </li>
+</ul>
+</div>
+</div><!--end wide nav -->
+
+
+
+<div id="mobilenavigation"><!-- start mobile nav --->
+<div id="mobilelogo"><a href="index.asp"><img src="images/mrb_navlogo.gif" width="191" height="48" alt="Mr Breakfast" border="0"></a></div>
+<div id="mobilecontainer">
+<div class="mobilenavpoint" id="home-navpoint"><a href="index.asp">Home</a></div>
+<div class="mobilenavpoint"><a href="recipe1.asp">Recipes</a></div>
+<div class="mobilenavpoint"><a href="times.asp">Library</a></div>
+<div class="mobilenavpoint"><a href="breakfast/">Blog</a></div>           
+<div class="mobilenavpoint" id="cereal-navpoint"><a href="cereal_home.asp">The Cereal Project</a></div>
+<div class="mobilenavpoint" id="cereal-navpoint-short"><a href="cereal_home.asp">The Cereal Project</a></div>
+</div> <!--end mobilecontainer div -->
+<br clear="all">
+<hr/>
+</div><!-- end mobilenavigation div -->
+
+
+
+   
+   
+<div id="whole-page">
+
+<div id="no-show-mobile"><!-- tabs -->
+
+<a href="category.asp?categoryid=3"><img src="images/tab_intl.jpg" width="90" height="50" alt="International Breakfasts" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="category.asp?categoryid=3">International Breakfasts</a></div>
+
+<a href="category.asp?categoryid=1"><img src="images/tab_usa.jpg" alt="American Breakfasts" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="category.asp?categoryid=1">American Breakfasts</a></div>
+
+<a href="category.asp?categoryid=4"><img src="images/tab_healthy.jpg" alt="Healthy Breakfasts" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="category.asp?categoryid=4">Healthy Breakfasts</a></div>
+
+<a href="category.asp?categoryid=5"><img src="images/tab_fancy.jpg" alt="Fancy Breakfasts" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="category.asp?categoryid=5">Fancy Breakfasts</a></div>
+
+<a href="category.asp?categoryid=2"><img src="images/tab_regional.jpg" alt="Regional Breakfasts" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="category.asp?categoryid=2">Regional Breakfasts</a></div>
+
+<a href="category.asp?categoryid=6"><img src="images/tab_experimental.jpg" alt="Experimental Breakfasts" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="category.asp?categoryid=6">Experimental Breakfasts</a></div>
+
+<div style="margin-top:80px; margin-bottom:60px;"><a href="login.asp?where=input1"><img src="images/tab_submit.gif" width="90" height="68" alt="Submit a Breakfast Recipe" border="0"></a>
+<div class="tabtext" style="margin-left:20px;"><a href="login.asp?where=input1">Submit a Breakfast Recipe</a></div>
+</div>
+
+<a href="super.asp"><img src="images/tab_super.jpg" alt="The Recipe Super Index" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="super.asp">Wow! The Recipe Super Index</a></div>
+
+<a href="glossary.asp"><img src="images/tab_glossary.jpg" alt="Glossary (Key Ingredients)" border="0" class="tabpic"></a>
+<div class="tabtext"><a href="glossary.asp">Glossary</a><br /><span class="small">(Ingredients,<br />Holidays, Etc.)</span></div>
+
+</div><!-- end tabs -->
+
+
+<div id="left-column-pg-defined"><!-- Left Column -->
+
+<div id="addthis"><!-- AddThis Button BEGIN -->
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=mrbreakfastdotcom" async="async"></script>
+<div class="addthis_sharing_toolbox"></div>
+<!-- AddThis Button END --></div>
+
+<h1>Breakfast Recipes</h1>
+
+<div style="margin-top:12px; margin-bottom: 30px; font-size:9pt;">Explore nearly 3,000 breakfast recipes. Browse by food item or explore different breakfast themes. The most choices for the most important meal of the day.  Be sure to read the comments from those who tried the  recipes and consider leaving a comment of your own.  Have a great breakfast!</div>  
+
+<div class="recipe1left">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=1">see all omelet recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=1" class="itemhead">Omelets</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=2415"><img src="images/2415_sm.jpg" width="90" height="90" alt="Simple Bacon Omelet" border="0" class="pics"><br />Simple Bacon Omelet</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=1076"><img src="images/1076_sm.jpg" width="90" height="90" alt="Omelet In A Bag" border="0" class="pics"><br />Omelet In A Bag</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=3002"><img src="images/3002_sm.jpg" width="90" height="90" alt="Vegan Egg-Free Omelet" border="0" class="pics"><br />Vegan Egg-Free Omelet</a></div>
+</div>
+
+<div class="recipe1right">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=4">see all pancake recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=4" class="itemhead">Pancakes</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=2972"><img src="images/2972_sm.jpg" width="90" height="90" alt="Whole Wheat Blueberry Pancakes" border="0" class="pics"><br />Whole Wheat Blueberry</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=2910"><img src="images/2910_sm.jpg" width="90" height="90" alt="Maple-Bacon Oven Pancake" border="0" class="pics"><br />Maple-Bacon Oven Pancake</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=2853"><img src="images/2853_sm.jpg" width="90" height="90" alt="Bacon Strip Pancakes" border="0" class="pics"><br />Bacon Strip Pancakes</a></div>
+</div>
+
+<div class="recipe1left">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=7">see all oatmeal recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=7" class="itemhead">Oatmeal</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=1733"><img src="images/1733_sm.jpg" width="90" height="90" alt="Creamy Microwave Oatmeal" border="0" class="pics"><br />Microwave Oatmeal</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=1491"><img src="images/1491_sm.jpg" width="90" height="90" alt="Pancake Oatmeal" border="0" class="pics"><br />Pancake Oatmeal</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=3026"><img src="images/3026_sm.jpg" width="90" height="90" alt="Orange Cranberry Oatmeal" border="0" class="pics"><br />Orange Cranberry</a></div>
+</div>
+
+<div class="recipe1right">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=5">see all waffle recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=5" class="itemhead">Waffles</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=3060"><img src="images/3060_sm.jpg" width="90" height="90" alt="French Toast Waffles" border="0" class="pics"><br />French Toast Waffles</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=1018"><img src="images/1018_sm.jpg" width="90" height="90" alt="Egg-Free Waffles" border="0" class="pics"><br />Egg-Free Waffles</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=1374"><img src="images/1374_sm.jpg" width="90" height="90" alt="Reliable Basic French Toast Recipe" border="0" class="pics"><br />Reliable Basic Recipe</a></div>
+</div>
+
+<div class="recipe1left">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=2">all scrambles recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=2" class="itemhead">Scrambles</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=501"><img src="images/501_sm.jpg" width="90" height="90" alt="Western Scramble" border="0" class="pics"><br />Western Scramble</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=3038"><img src="images/3038_sm.jpg" width="90" height="90" alt="Spinach Mushroom Scramble" border="0" class="pics"><br />Spinach Mushroom</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=670"><img src="images/670_sm.jpg" width="90" height="90" alt="Cheesy Scrambled Eggs" border="0" class="pics"><br />Cheesy Scramble</a></div>
+</div>
+
+<div class="recipe1right">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=6">see all recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=6" class="itemhead">French Toast</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=1616"><img src="images/1616_sm.jpg" width="90" height="90" alt="Basic French Toast" border="0" class="pics"><br />Basic French Toast</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=3024"><img src="images/3024_sm.jpg" width="90" height="90" alt="Brown Sugar & Walnut Baked French Toast" border="0" class="pics"><br />Baked French Toast</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=2824"><img src="images/2824_sm.jpg" width="90" height="90" alt="Coconut Banana French Toast" border="0" class="pics"><br />Coconut Banana French Toast</a></div>
+</div>
+
+<div class="recipe1left">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=3">all recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=3" class="itemhead">Other Egg Dishes</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=2151"><img src="images/2151_sm.jpg" width="90" height="90" alt="Eggs Benedict" border="0" class="pics"><br />Eggs Benedict</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=2879"><img src="images/2879_sm.jpg" width="90" height="90" alt="Baked Egg Nests" border="0" class="pics"><br />Baked Egg Nests</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=1440"><img src="images/1440_sm.jpg" width="90" height="90" alt="Egg In The Hole" border="0" class="pics"><br />Egg In The Hole</a></div>
+</div>
+
+<div class="recipe1right">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=13">see all >></a></div>
+<a href="recipe_collection.asp?subcategoryid=13" class="itemhead">Fruity Breakfasts</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=1244"><img src="images/1244_sm.jpg" width="90" height="90" alt="Homemade Strawberry Jam" border="0" class="pics"><br />Strawberry Jam</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=2745"><img src="images/2745_sm.jpg" width="90" height="90" alt="Banana Breakfast Dogs" border="0" class="pics"><br />Banana Breakfast Dog</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=2812"><img src="images/2812_sm.jpg" width="90" height="90" alt="Brazilian Acai Breakfast Bowl" border="0" class="pics"><br />Brazilian Acai Breakfast Bowl</a></div>
+</div>
+
+<div class="recipe1left">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=9">see all recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=9" class="itemhead">Baked Goods</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=941"><img src="images/941_sm.jpg" width="90" height="90" alt="Buttermilk Biscuits" border="0" class="pics"><br />Basic Buttermilk Biscuits</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=3018"><img src="images/3018_sm.jpg" width="90" height="90" alt="Cinnamon Flop Coffee Cake" border="0" class="pics"><br />Cinnamon Flop Coffee Cake</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=2784"><img src="images/2784_sm.jpg" width="90" height="90" alt="Bacon Cinnamon Rolls" border="0" class="pics"><br />Bacon Cinnamon Rolls</a></div>
+</div>
+
+<div class="recipe1right">
+<div class="seemore"><a href="recipe_collection.asp?subcategoryid=15">see all recipes >></a></div>
+<a href="recipe_collection.asp?subcategoryid=15" class="itemhead">Sides, Etc.</a><br />
+<div class="item"><a href="superdisplay.asp?recipeid=1781"><img src="images/1781_sm.jpg" width="90" height="90" alt="Home Fries" border="0" class="pics"><br />Home Fries</a></div>
+<div class="item"><a href="superdisplay.asp?recipeid=990"><img src="images/990_sm.jpg" width="90" height="90" alt="Brown Sugar Pancake Syrup" border="0" class="pics"><br />Brown Sugar Pancake Syrup</a></div>
+<div class="item-r"><a href="superdisplay.asp?recipeid=2849"><img src="images/2849_sm.jpg" width="90" height="90" alt="Sweet & Spicy Pecan Bacon" border="0" class="pics"><br />Sweet & Spicy Pecan Bacon</a></div>
+</div>
+
+
+<div style="clear: both;">
+
+<div class="itemhead">Other Breakfast Food Categories</div>
+<div class="item2"><a href="recipe_collection.asp?subcategoryid=8"><img src="images/r1_cereals.jpg" width="125" height="90" alt="Homemade Breakfast Cereals" border="0" class="pics"><br />Homemade Cereals</a></div>
+<div class="item2"><a href="recipe_collection.asp?subcategoryid=14"><img src="images/r1_drinks.jpg" width="125" height="90" alt="Breakfast Drinks" border="0" class="pics"><br />Breakfast Drinks</a></div>
+<div class="item2"><a href="recipe_collection.asp?subcategoryid=10"><img src="images/r1_crepes.jpg" width="125" height="90" alt="Breakfast Crepes" border="0" class="pics"><br />Breakfast Crepes</a></div>
+<div class="item2"><a href="recipe_collection.asp?subcategoryid=12"><img src="images/r1_quiche.jpg" width="125" height="90" alt="Breakfast Quiche" border="0" class="pics"><br />Breakfast Quiche</a></div>
+<div class="item2"><a href="recipe_collection.asp?subcategoryid=11"><img src="images/r1_souffle.jpg" width="125" height="90" alt="Breakfast Souffles" border="0" class="pics"><br />Breakfast Souffles</a></div>
+
+</div><br clear="all" /><br /><br /><br />
+
+</div><!-- end main -->
+
+
+<div style="clear: both;">
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Recipe Main Page - Responsive -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-5080680296204286"
+     data-ad-slot="4558431696"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div><br clear="all" />
+
+
+<div style="width: 100%; border-top: 1px solid #2e5671; clear:both;"><!-- bottom -->
+
+<div style="width:200px; float: left; margin-right:40px; padding-top:40px;">
+<span class="itemhead2">Most Popular Recipes</span>
+<div class="space7"><a HREF="superdisplay.asp?recipeid=239">Chocolate Chip Muffins</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1374">Best Waffles Ever</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=259">How To Make A Basic Crepe</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1039">Homemade Pancakes</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=421">Cheese Omelette</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=437">Easy Banana Bread</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1076">Omelettes In A Bag</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1440">Egg In The Hole</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=990">Brown Sugar Pancake Syrup</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1140">Cranberry Bliss Bars -- a la Starbucks</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=148">Milk Toast</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1616">Basic French Toast</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=2151">Eggs Benedict</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1251">Perfect Scrambled Eggs</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1147">Mashed Potato Pancakes</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=907">40-Second Omelet</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1192">Homemade Buttermilk</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1309">Apple Cinnamon Waffles</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1175">Low-Carb Pancakes (Pork Rinds)</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=112">Liver Mush</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=955">S.O.S. (Creamed Beef On Toast)</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1018">Egg-Free Waffles</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1367">Egg-Free French Toast</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=620">Whole Wheat Waffles</a></div><div class="space7"><a HREF="superdisplay.asp?recipeid=1404">Full English Breakfast</a></div>	
+
+
+<div style="padding-top:30px;">
+<span class="itemhead2">Most Recent Recipes</span>
+
+<div class="space7"><a href="superdisplay.asp?recipeid=3286">Low-Carb Banana Waffles</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3285">Broccoli Tofu Scramble</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3284">Guava Smoothie</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3283">Greek Yogurt Pancakes for One</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3282">Mini Baked Cake Donuts</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3281">Oatmeal Protein Pancakes</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3279">Gluten-Free Almond Pancakes (Low Carb)</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3277">Sriracha Scrambled Eggs</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3276">Brooklyn Breakfast</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3275">Fruit Breakfast Pizza w/ Granola Crust</a></div><div class="space7"><a href="superdisplay.asp?recipeid=3274">Stuffing Waffles</a></div>
+
+</div>
+</div>
+
+<div style="max-width: 560px; float: left; padding-top:40px;">
+<div class="itemhead3" style="margin-bottom:30px;">Cooking With Mr Breakfast</div>
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/IqWNWIkgpa4' frameborder='0' allowfullscreen></iframe></div>
+
+<br /><br /><br /><br />
+<b>Hot Tip: Sunny-Side-Up Eggs</b><br /><br />
+
+The trick to a <b>Perfect Sunny-Side-Up Egg</b> is basting.  Using a small frying pan and cooking only one or two eggs at a time, spoon hot butter over the top of each egg as it cooks.  The whites will be fully cooked through, solid yet tender.  The yolk should have just the finest cooked membrane so it'll hold its shape but be ready to explode with goodness at the merest prick of a fork or piece of toast.<br /><br /><br />
+
+<b>Better Breakfast: Buy Berries</b><br /><br />
+
+Let's face it, a few of our breakfast favorites aren't all that nutritionally fantastic.  Adding a handful of berries to your pancakes and waffles can change that fast.  A cup of blueberries has 25% of your daily Vitamin C and 4 grams of fiber.  Strawberries deliver 160% Vitamin C.  Raspberries and blackberries have 8 grams of fiber per cup.  Next time you warm maple syrup on the stove, add a handful of blueberries.  I promise that you'll love the taste.  Don't even get me started on the benefits of adding berries to breakfast cereal.<br /><br /><br />
+
+<b>Oatmeal Again?</b><br /><br />
+
+You know you should eat more oatmeal.  It's a super food that can actually help lower cholesterol and reduce the risk of heart disease.  But it can seem boring day in and day out.  Try this... add a small dollop of fat-free whipped topping to your next bowl.  With a minimal decrease in nutrition, you get a maximum increase in excitement.  You may even find yourself craving it for dessert.  Take that ice cream!  (By the way, just a couple teaspoons of ice cream in oatmeal... melting, creating sweet streaks of flavor... is pretty good too.  But that'll be our secret.)  Check out the <a href="article.asp?articleid=27">Top 10 Reasons Why You Should Eat Oatmeal</a>.<br /><br /><br />
+
+<b>What Makes A Healthy Breakfast?</b><br /><br /> 
+The ideal breakfast is rich in whole grains, low in fat and sugar and contains some protein and at least a partial serving of fruits and/or vegetables.  That's the ideal.  The reality is that the benefits of breakfast happen over time.  So the most important thing is that you eat breakfast, any breakfast, every day.  No excuses.  Here's some tips for <a href="article.asp?articleid=30">Quick Breakfasts For Busy Mornings</a>.
+</div>
+
+<div id="show-mobile-only">
+<span class="itemhead2">Other Breakfast Recipe Categories:</span>
+
+<div class="space7"><a href="category.asp?categoryid=3">International Breakfasts</a></div>
+
+<div class="space7"><a href="category.asp?categoryid=1">American Breakfasts</a></div>
+
+<div class="space7"><a href="category.asp?categoryid=4">Healthy Breakfasts</a></div>
+
+<div class="space7"><a href="category.asp?categoryid=5">Fancy Breakfasts</a></div>
+
+<div class="space7"><a href="category.asp?categoryid=2">Regional Breakfasts</a></div>
+
+<div class="space7"><a href="category.asp?categoryid=6">Experimental Breakfasts</a></div>
+
+</div>
+
+
+<div style="margin-left:44px; padding-top:50px; width:160px; float: left;"> <!-- right column -->
+
+
+
+<!-- Recipes: Left Side -->
+<!-- AD removed 10/21/17 -->
+
+
+</div><!-- end bottom -->
+</div><!-- end left (right?) column -->
+</div><!--end whole-page -->
+
+<BR CLEAR="all"><BR>
+<div class="small" style="text-align:center; margin-top:20px; margin-bottom:10px; line-height:19pt;"><a href="index.asp" title="MrBreakfast.com Home Page">Home</A> | <a href="about.asp" title="About MrBreakfast.com">About</A> | <a href="enterprises.asp" title="Contact MrBreakfast.com">Contact</A> | <a href="recipe1.asp" title="Breakfast Recipes">Breakfast Recipes</a> | <A HREF="cereal_home.asp" title="The Cereal Project: Breakfast Cereal Encyclopedia">The Cereal Project</A> | <a href="glossary.asp" title="MrBreakfast.com Site Index">Site Index</a> | <a href="love.asp" title="Recommended Food Charities">Food Charities</a> | <a href="breakfast/" title="MrBreakfast.com Blog">Blog</a><BR><BR>&copy;2019 MrBreakfast.com</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-955268-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- end #mainContent --></div>
+<!-- end #container --></div>
+
+</body>
+</html>

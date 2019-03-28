@@ -1,0 +1,515 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr">
+<head>
+<title>404 Not Found - Pierre Hermé Paris</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Entrez dans l'univers de goûts, de sensations et de plaisirs de Pierre Hermé et découvrez toutes ses créations originales.  Livraison en France et en Europe. " />
+<meta name="keywords" content="" />
+<meta name="robots" content="INDEX,FOLLOW" />
+<meta name="google-site-verification" content="OjYgYyQYqc8vQEcVWhZBFSR9IjEvJaCMjpOkrrwHdpI" />
+<link rel="icon" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/favicon.ico" type="image/x-icon" />
+<script type="text/javascript">
+//<![CDATA[
+    var BLANK_URL = 'https://www.pierreherme.com/js/blank.html';
+    var BLANK_IMG = 'https://www.pierreherme.com/js/spacer.gif';
+//]]>
+</script>
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/css/styles.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/css/media-queries.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/css/widgets.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/aw_islider/representations/default/style.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/css/podbox.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/js/jquery/fancybox/jquery.fancybox-1.3.4.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/default/css/print.css" media="print" />
+<script type="text/javascript" src="https://www.pierreherme.com/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/jquery/jquery.noconflict.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/lib/ccard.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/prototype/validation.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/varien/js.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/varien/form.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/varien/menu.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/mage/translate.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/mage/cookies.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/pod1/core.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/pod1/podbox.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/dnd/billing.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/js/subscriber/ajax.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/skin/frontend/default/pierreherme/js/j2t/ajax_cart.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/skin/frontend/default/pierreherme/js/jquery/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/skin/frontend/default/pierreherme/js/pierreherme/main2.js"></script>
+<!--[if IE 8]>
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="https://www.pierreherme.com/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="https://www.pierreherme.com/skin/frontend/base/default/js/ie6.js"></script>
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" type="text/css" href="https://www.pierreherme.com/skin/frontend/default/pierreherme/css/styles-ie6.css" media="all" />
+<![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.pierreherme.com';
+//]]>
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = [];
+//]]>
+</script>
+    <script>
+        var dataLayer = [({"customerLoggedIn":0,"customerId":0,"customerGroupId":"1","customerGroupCode":"GENERAL","pageType":"cms\/index\/noRoute"})];
+                        dataLayer.push({'ecommerce': {"currencyCode":"EUR"}});
+        (function (w, d, s, l, i) {
+            if (i == '') { return console.log('No GTM ID provided'); }
+            w[l] = w[l] || [];
+            w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+            var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-WHK26CC');
+    </script>
+    <!-- Facebook Pixel Code -->
+    <script>
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+            n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+            t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+                document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+        fbq('init', '1522100008117170');
+        fbq('track', "PageView");</script>
+    <noscript><img height="1" width="1" style="display:none"
+           src="https://www.facebook.com/tr?id=1522100008117170&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code --><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate({"Please select an option.":"S\u00e9lectionnez une option","This is a required field.":"Ce champ est obligatoire.","Please enter a valid number in this field.":"Veuillez saisir un nombre valide.","Please use letters only (a-z or A-Z) in this field.":"Veuillez utiliser uniquement des lettres (a-z ou A-Z) dans ce champs.","Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Veuillez utiliser uniquement des lettres (a-z), des chiffres (0-9) ou underscore (_) dans ce champ, en commen\u00e7ant par une lettre.","Please enter a valid phone number. For example (123) 456-7890 or 123-456-7890.":"Veuillez saisir un num\u00e9ro de t\u00e9l\u00e9phone valide.","Please enter a valid date.":"Veuillez saisir une date valide.","Please enter a valid email address. For example johndoe@domain.com.":"Veuillez saisir une adresse email valide. Par exemple johndoe@domaine.com","Please enter 6 or more characters. Leading or trailing spaces will be ignored.":"Veuillez saisir au moins 6 caract\u00e8res. Les espaces en d\u00e9but ou en fin de cha\u00eene seront ignor\u00e9s.","Please make sure your passwords match.":"Veuillez v\u00e9rifier que les mots de passe concordent.","Please enter a valid URL. For example http:\/\/www.example.com or www.example.com":"Veuillez saisir une URL valide. Par exemple http:\/\/www.exemple.com ou www.exemple.com","Please enter a valid social security number. For example 123-45-6789.":"Veuillez saisir un num\u00e9ro de s\u00e9curit\u00e9 sociale valide. Par exemple 123-45-6789.","Please enter a valid zip code. For example 90602 or 90602-1234.":"Veuillez saisir un code postal valide. Par exemple 93100.","Please enter a valid zip code.":"Veuillez saisir un code postal valide.","Please use this date format: dd\/mm\/yyyy. For example 17\/03\/2006 for the 17th of March, 2006.":"Veuillez utiliser ce format de date : jj\/mm\/aaaa. Par exemple, 21\/12\/2012 pour le 21 D\u00e9cembre 2012.","Please enter a valid $ amount. For example $100.00.":"Veuillez saisir un montant valide. Par exemple $100.00.","Please select one of the above options.":"Veuillez choisir une des options ci-dessus.","Please select one of the options.":"Veuillez choisir une des options.","Please select State\/Province.":"Veuillez choisir un \u00e9tat\/province.","Please enter a number greater than 0 in this field.":"Veuillez saisir un nombre sup\u00e9rieur \u00e0 0 dans ce champ.","Please enter a valid credit card number.":"Veuillez saisir un num\u00e9ro de carte bancaire valide.","Please enter a valid credit card verification number.":"Veuillez saisir un num\u00e9ro de cryptogramme visuel correct","Please use only letters (a-z or A-Z), numbers (0-9) or underscore(_) in this field, first character should be a letter.":"Merci d'utiliser uniquement des lettres (a-z ou A-Z), des chiffres (0-9) ou tiret (_) dans ce champ, le premier symbole doit \u00eatre une lettre.","Please wait, loading...":"Veuillez patienter, chargement en cours...","This date is a required value.":"Merci de remplir un mois de naissance valide (1-12).","Please enter a valid day (1-%d).":"Merci de remplir un jour de naissance valide (1-%d).","Please enter a valid month (1-12).":"Merci de remplir un mois de naissance valide (1-12).","Please enter a valid year (1900-%d).":"Merci de remplir une ann\u00e9e de naissance valide (1900-%d).","Please enter a valid full date.":"Veuillez saisir une date valide.","Complete":"Termin\u00e9e","Please choose to register or to checkout as a guest":"Choisissez de vous enregistrer ou de passer votre commande en tant qu'invit\u00e9","Please specify payment method.":"Choisissez un mode de paiement.","Save":"Sauvegarder","Cancel":"Annuler","Time is a required field.":"L'heure est un champ obligatoire.","Date is a required field.":"La date est un champ obligatoire.","Please select shipping method.":"Veuillez choisir un mode de livraison."});
+        //]]></script></head>
+<body class=" cms-index-noroute cms-no-route">
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-WHK26CC" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+<div class="wrapper">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    Veuillez activer Java Script afin de pouvoir utiliser la fonctionnalité de ce site.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        <div class="header-container">
+    <div class="header">
+        <div class="logo"><a href="https://www.pierreherme.com/" title="Pierre Hermé Paris"><img src="https://www.pierreherme.com/skin/frontend/default/pierreherme/images/logo.png" alt="Pierre Hermé Paris" /></a></div>
+        <div class="navigation">
+            <ul class="shop-nav">
+                <li><div class="form-language">
+
+										<div id="language-selector">Fr</div>
+										
+    <ul id="select-language" style="display:none;">
+                                <li  selected="selected">
+                                                <a href="https://www.pierreherme.com/index.cgi?___store=french&amp;___from_store=french" title="FRANCE (FR)">FRANCE (FR)</a>
+            </li>
+                                <li >
+                                                <a href="https://www.pierreherme.com/index.cgi?___store=english&amp;___from_store=french" title="FRANCE (ENG)">FRANCE (ENG)</a>
+            </li>
+                <li><a href="http://www.pierreherme.com/co_uk/?wanted=true" title="UNITED KINGDOM" target="_blank" >UNITED KINGDOM</a></li>
+        <li><a href="http://www.pierreherme.com/storelocator/hong-kong-ifc" title="HONG KONG" target="_blank" >HONG KONG</a></li>
+        <li><a href="http://www.pierreherme.co.jp" title="JAPAN" target="_blank" >日本</a></li>
+    </ul>
+</div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+    var flagLang = false;
+    jQuery('.form-language').hover(function(){
+        if(flagLang==false){
+            jQuery('#select-language').fadeIn(100);
+            jQuery('#language-selector').addClass('active');
+            flagLang = true;
+        }
+        else{
+            jQuery('#select-language').fadeOut(100);
+            jQuery('#language-selector').removeClass('active');
+            flagLang = false;
+        }
+    });	
+});
+</script>
+</li>
+                <li><a href="https://www.pierreherme.com/contacts/">Contact</a></li>
+                <li><div class="block block-subscribe">
+
+    <div class="block-content">
+        <a href="" id="newsletter-link">Inscription à la newsletter</a>
+    </div>
+
+    <div class="newsletter-box">
+        <span class="close-newsletter-box">Fermer</span>
+        <div class="newsletter-final-message" style="display: none;">MERCI !</div>
+        <div class="newsletter-final-already-use" style="display: none;">Cette adresse email existe déjà</div>
+        <div class="newsletter-final-invalid-email" style="display: none;">Cette adresse email n'est pas valide</div>
+        <form action="https://www.pierreherme.com/subscribernewsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+            <p class=" newsletter-message">Inscription à la newsletter</p>
+            <p class="newsletter-confirmation"></p>
+            <div class="input-box">
+                <input type="text" name="email" id="newsletter" title="Abonnez-vous à la newsletter" class="input-text required-entry validate-email nl-subscriber" value="VOTRE EMAIL" />
+            </div>
+            <input type="hidden" id="newsletter-header-action" value="https://www.pierreherme.com/subscribernewsletter/subscriber/new/"/>
+            <div class="actions" id="ajax-send">
+                <button type="submit" title="VALIDER" class="button nl-button" id="test-fonction">
+                    <span><span>OK</span></span>
+                </button>
+            </div>
+            <div class="input-box checkbox-newsletter">
+                <input type="checkbox" name="is-header-subscribed" class="checkbox" value="1" id="is-header-subscribed"/>
+                <label class="jdpr-newsletter" for="is-header-subscribed">
+                    Je déclare être âgé(e) de 16 ans ou plus et souhaite recevoir des informations personnalisées de Pierre Hermé, mes données pouvant être utilisées à des fins statistiques et analytiques. Pour en savoir plus sur vos droits, consultez notre                    <a href="https://www.pierreherme.com/terms-and-conditions">Politique de protection des données personnelles</a>
+                </label>
+            </div>
+        </form>
+    </div>
+
+
+    <script type="text/javascript">
+
+
+    //<![CDATA[
+
+    // Translations
+
+   // Translator.add('Thank you', '');
+   // Translator.add('Enter a valid email address', '');
+   // Translator.add('Email address already added.', '');
+
+
+    jQuery(document).ready(function(){
+
+        var saveNL = new DnDBilling('#is-header-subscribed', '.nl-subscriber', '#newsletter-header-action', '.nl-button', '#newsletter-validate-detail');
+
+        // Stop form submit
+        Event.observe('newsletter-validate-detail','submit',function(event) {
+            Event.stop(event);
+        });
+
+        // Email field Paceholder
+        var newsField = jQuery('#newsletter');
+        newsField.click(function() {
+            if(newsField.val() == 'VOTRE EMAIL') { newsField.val(''); }
+        });
+        newsField.keydown(function() {
+            if(newsField.val() == 'VOTRE EMAIL') { newsField.val(''); }
+        });
+    });
+
+    //]]>
+    </script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+
+            var _panelClass   = '.newsletter-box',
+                _triggerClass = "#newsletter-link",
+                _panel        = jQuery(_panelClass),
+                _trigger      = jQuery(_triggerClass),
+                _close        = jQuery('.close-newsletter-box'),
+                _isHide       = true
+                _slideDelay   = 150;
+
+
+            function togglePanel(_force)
+            {
+                if(typeof _force != 'undefined') {
+                    switch(_force) {
+                        case 'show':
+                            _showPanel();
+                            break;
+                        case 'hide':
+                            _hidePanel();
+                            break;
+                    }
+                }
+                else {
+                    if(_isHide === true) {
+                        _showPanel();
+                    }
+                    else {
+                        _hidePanel();
+                    }
+                }
+            }
+
+            function _showPanel()
+            {
+                _panel.stop(true,true).slideDown(_slideDelay, function() {
+                    jQuery('#newsletter').focus();
+                });
+                _isHide = false;
+            }
+
+            function _hidePanel()
+            {
+                _panel.stop(true,true).slideUp(_slideDelay);
+                _isHide = true;
+            }
+
+            _trigger.click(function(event) {
+                event.preventDefault();
+                togglePanel();
+            });
+
+            _close.click(function(event) {
+                event.preventDefault();
+                togglePanel('hide');
+            });
+
+            jQuery('body').click(function(event) {
+                var _child = jQuery(event.target);
+                if(!_child.parents(_panelClass).length && !_child.is(_triggerClass) && !_child.is(_panelClass)) {
+                    togglePanel('hide');
+                }
+            });
+
+        });
+    </script>
+
+</div>
+</li>
+            </ul>
+            <div class="social-links-block">
+                <ul class="social-links">
+<li class="social-link facebook-icon"><a title="Facebook - Pierre Herm&eacute; Paris" href="https://www.facebook.com/pierre.herme.paris" target="_blank">Facebook</a></li>
+<li class="social-link twitter-icon"><a title="Twitter - Pierre Herm&eacute; Paris" href="https://twitter.com/PierreHerme_FR" target="_blank">Twitter</a></li>
+<li class="social-link instagram-icon"><a title="Instagram - Pierre Herm&eacute; Paris" href="https://www.instagram.com/pierrehermeofficial/" target="_blank">Instagram</a></li>
+</ul>            </div>
+			<div class="header-middle">
+                <form id="search_mini_form" action="https://www.pierreherme.com/catalogsearch/result/" method="get">
+<div class="form-search">
+    <label for="search">Rechercher</label>
+    <input id="search" type="text" name="q" value="" class="input-text" maxlength="128"/>&nbsp;
+    <button type="submit" title="Aller" class="button">
+        <span><span>Aller</span></span>
+    </button>
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', '');
+        searchForm.initAutocomplete('https://www.pierreherme.com/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
+</div>
+</form>
+                <span id="reload-ajax">
+					                    <a id="btn_shopping_bag" class="bag cart-grey" href="https://www.pierreherme.com/checkout/cart/">
+                        <span class="my-cart-text"><span>Mon panier</span></span>                    </a>
+				</span>
+                <!--Account dropdown box when user is logged-->
+                                    <a class="account-login" href="https://www.pierreherme.com/customer/account/login/" title="Mon compte">Mon compte</a>
+                                                <div class="cart-loader" class="j2tajax-progress" id="j2t_ajax_progress">
+                    <img src="https://www.pierreherme.com/skin/frontend/default/pierreherme/images/loading.gif" alt="loader" />
+                </div>
+                <div id="ajax_cart_holder" style="display:none;"></div>
+                <ul class="currency">
+    </ul>
+
+                <!--
+				-->
+			</div>
+
+            <div class="nav-container primary-nav">
+        <ul>
+<li class="products"><a class="level-top" title="Boutique en ligne Pierre Herme Paris" href="https://www.pierreherme.com/boutique-en-ligne.html">Boutique en ligne</a><div class="drop-down"><div class="drop-down-cont">
+<div class="align-left our-product">
+<h2>Nos Produits</h2>
+<div class="widget widget-static-block"><ul class="align-left block-our-product">
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/macarons.html"><span>Macarons</span></a>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/macarons/coffrets-assortis.html">Coffrets assortis</a></li>
+<li></li>
+</ul>
+</li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/patisseries.html">P&Acirc;TISSERIES</a></li>
+<li>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/patisseries/signatures.html">Signatures</a></li>
+<li>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/patisseries/chocolat.html">Chocolat</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/chocolat.html"><span>Chocolats</span></a>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/chocolat/coffrets.html">Coffrets Assortis</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/chocolat/tablettes.html">Tablettes</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/chocolat/snacks.html">Snacks</a></li>
+</ul>
+</li>
+<li></li>
+<li></li>
+</ul>
+<ul class="align-left block-our-product">
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/paques-2019.html">P&acirc;QUES</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/brioche-colombe.html">COLOMBE</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/nouveautes/je-suis-chocolat.html">FAN DE CHOCOLAT</a></li>
+<li><a href="http://www.pierreherme.com/boutique-en-ligne/cakes.html">CAKES</a></li>
+<li><a href="http://www.pierreherme.com/boutique-en-ligne/thes.html">TH&Eacute;S</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/confiseries.html">CONFISERIES</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/nouveautes/cartes-cadeaux.html">CADEAUX</a></li>
+<li></li>
+<li></li>
+<li></li>
+</ul></div>
+</div>
+<div class="align-left universe">
+<h2>L'univers Pierre Herm&eacute; Paris</h2>
+<div class="widget widget-static-block"><ul class="align-left block-our-universe">
+<li><span>Coffrets Cadeaux</span>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/coffrets-cadeaux/coffrets-assortis.html">Coffrets Cadeaux</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/coffrets-cadeaux/meilleures-ventes.html">Meilleures ventes</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/coffrets-cadeaux/fan-dispahan.html">Fan d'Ispahan</a></li>
+</ul>
+</li>
+<li><span>NOUVEAUTES</span></li>
+<li>
+<ul>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/paques-2019.html">P&acirc;ques</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/brioche-colombe.html">Colombe</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/nouveautes/je-suis-chocolat.html">Fan de Chocolat</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/nouveautes/cartes-cadeaux.html">Cartes Cadeaux</a></li>
+<li></li>
+</ul>
+</ul>
+<br /><br /></li>
+</ul>
+<ul class="align-left block-our-universe">
+<li><span>Saveurs Signatures</span>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/saveurs-signatures/ispahan.html">Ispahan</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/saveurs-signatures/mogador.html">Mogador</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/saveurs-signatures/infiniment-vanille.html">Infiniment Vanille</a></li>
+</ul>
+</li>
+<li><span>Modes de livraison</span>
+<ul>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/modes-de-livraison/expedition-a-domicile.html">Exp&eacute;dition &agrave; domicile</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/modes-de-livraison/retrait-boutique.html">Retrait Boutique</a></li>
+<li><a href="https://www.pierreherme.com/boutique-en-ligne/modes-de-livraison/livraison-coursier.html">Livraison par Coursier</a></li>
+</ul>
+</li>
+</ul></div>
+</div>
+<div class="banner"><div class="widget widget-banner">
+        <ul>
+            <li><p><a href="https://www.pierreherme.com/boutique-en-ligne/paques-2019.html"><img src="https://www.pierreherme.com/media/wysiwyg/OEUF-CHOCO-SOUS_MENU-340x155-FR.jpg" alt="Oeufs de paques" /></a></p></li>
+            <li><p><a href="https://www.pierreherme.com/boutique-en-ligne/modes-de-livraison/expedition-a-domicile.html"><img src="https://www.pierreherme.com/media/wysiwyg/EXPE4.jpg" alt="exp&eacute;dition &agrave; domicile" /></a></p></li>
+            <li><p><a href="https://www.pierreherme.com/boutique-en-ligne/modes-de-livraison/retrait-boutique.html"><img src="https://www.pierreherme.com/media/wysiwyg/CLICKNCOLLECT_FR_1.jpg" alt="Click and Collect" /></a></p></li>
+        </ul>
+</div>
+</div>
+</div></div>
+</li>
+<li><a class="level-top" title="Boutique en ligne Pierre Herme Paris" href="https://www.pierreherme.com/boutiques/">Boutiques</a></li>
+<li><a class="level-top" title="Boutique en ligne Pierre Herme Paris" href="https://www.pierreherme.com/entreprises/">Entreprises</a></li>
+<li><a class="level-top" title="La Maison" href="https://www.pierreherme.com/company/">La Maison</a></li>
+</ul></div>
+            
+            <!--<div class="search">
+                            </div>-->
+
+        </div>
+
+                </div>
+    <div class="clear-both">&nbsp;</div>
+</div>
+<script>
+    /*Script dropdown account link*/
+    jQuery(document).ready(function(){
+        var dropdown = false;
+        jQuery('.account-box').hover(function(){
+            if(dropdown==false){
+                jQuery('.account-informations').fadeIn(100).addClass('active');
+                jQuery('.account-login').addClass('active');
+                dropdown = true;
+            }
+            else{
+                jQuery('.account-informations').fadeOut(100).removeClass('active');
+                jQuery('.account-login').removeClass('active');
+                dropdown=false;
+            }
+        });
+    });
+</script>
+
+
+        <div class="main-container col1-layout">
+            <div class="main">
+                                <div class="col-main">
+                                        
+<div class="std"><div style="clear: both; width: 100%; margin-left: -30px; margin-top: -40px;">
+<div style="float: left; width: 322px;"><img src="http://www.pierreherme.com/media/img/pierre-herme-404.jpg" alt="" /></div>
+<div style="float: left; width: 480px; margin-left: 40px; margin-top: 100px;">
+<h1><span style="font-size: 14px; text-transform: uppercase;">LA PAGE DEMANDÉE EST INTROUVABLE</span></h1>
+<p><span style="font-size: 14px;">Si vous avez tapé l&rsquo;URL directement, assurez-vous que l&rsquo;adresse est exacte.<br />Si vous avez cliqué sur un lien pour accéder à cette page, cela signifie que le lien est obsolète.</span></p>
+<p><span style="font-size: 14px;"><br /></span></p>
+<h1><span style="font-size: 14px; text-transform: uppercase;">QUELLE EST LA SOLUTION ?</span></h1>
+<p><span style="font-size: 14px;"><a onclick="history.go(-1); return false;" href="#">Retournez</a> &agrave; la page précédente.</span><br /><span style="font-size: 14px;"> Utilisez la barre de recherche située en haut de la page afin de trouver les produits souhaités.</span><br /><span style="font-size: 14px;"> <a href="http://test.php.pierreherme.nbs-test.com/index.php/admin/cms_wysiwyg/directive/___directive/e3tzdG9yZSB1cmw9IiJ9fQ,,/key/e8f02075fce3138fbd1b5e184c3ab9ec/">Boutique en ligne</a> <span class="separator">/</span> <a href="http://test.php.pierreherme.nbs-test.com/index.php/admin/cms_wysiwyg/directive/___directive/e3tzdG9yZSB1cmw9ImN1c3RvbWVyL2FjY291bnQifX0,/key/e8f02075fce3138fbd1b5e184c3ab9ec/">Mon compte</a></span></p>
+</div>
+</div></div>                </div>
+            </div>
+        </div>
+        <div class="footer">
+			<div class="ft-nav">
+        <ul>
+						<li><a href="https://www.pierreherme.com/information-and-services/">AIDE</a></li><li><a href="https://www.pierreherme.com/newsletter/">Newsletter</a></li><li><a href="https://www.pierreherme.com/partners/">Partenaires</a></li><li><a href="https://www.pierreherme.com/recruitment/">Recrutement</a></li><li><a href="https://www.pierreherme.com/terms-and-conditions/">CGV</a></li><li><a href="https://www.pierreherme.com/questions-frequentes/">Questions Fréquentes</a></li>            <li><a href="https://www.pierreherme.com/contacts/">Nous écrire</a></li>
+            <li><a href="https://www.pierreherme.com/privacy-policy-cookie-restriction-mode/">Politique de protection des données personnelles</a></li>
+            <li class="last"><a href="https://www.pierreherme.com/catalog/seo_sitemap/category/">Plan du site</a></li>
+        </ul>
+    </div>
+
+    <ul class="copy">
+        <li class="last"><a href="https://www.pierreherme.com/">&copy; Copyright Pierre Hermé Paris 2014</a></li>
+                    </ul>
+</div>                <div class="global-site-notice notice-cookie" id="notice-cookie-block">
+    <div class="notice-inner">
+        <div class="notice-text"><p>La Maison Pierre Herm&eacute; utilise des&nbsp;<span class="il">cookies</span>&nbsp;pour vous offrir les meilleurs services et publicit&eacute;s. En continuant &agrave; naviguer sur notre site, vous acceptez de recevoir nos&nbsp;<span class="il">cookies&nbsp;</span>en accord avec notre&nbsp;<a href="https://www.pierreherme.com/privacy-policy-cookie-restriction-mode">politique de confidentialit&eacute;</a>.</p></div>
+        <div class="actions"><button class="button" onclick="allowSaveCookie()"><span><span>Fermer</span></span></button></div>
+    </div>
+</div>
+<script type="text/javascript">
+    /* <![CDATA[ */
+    function allowSaveCookie() {
+        Mage.Cookies.set('user_allowed_save_cookie', '{"1":1}', new Date(new Date().getTime() + 31536000 * 1000));
+        if (Mage.Cookies.get('user_allowed_save_cookie')) {
+            window.location.reload();
+        } else {
+            window.location.href = 'https://www.pierreherme.com/cms/index/noCookies/';
+        }
+    }
+    $('notice-cookie-block').show();
+    /* ]]> */
+</script>
+
+
+<div class="j2t-overlay" id="j2t-overlay" style="display:none;"></div>
+<!-- 2534c7bc30a9cc5ad421c085e0233141 --><!-- 175cbeb20c7b7c52c3414afd533d2607 -->    </div>
+</div>
+</body>
+</html>
